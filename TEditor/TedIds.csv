@@ -1,0 +1,846 @@
+3,FIT ID,INI ID,Name,Category,Rotation,Spray Can?,Slope ,Terrain,Type,Profile (vehicles and mechs only ),Capturable,destroy,Show on Tac map
+
+b,1188,1099,Auxiliary Power,BaseMaker PA,NULL,0,2,l,Power Station,0,1,1,1
+b,965,850,Auxiliary Power,BaseMaker Cermak,NULL,0,2,l,Power Station,0,1,1,1
+b,483,396,Auxiliary Power (Off),BaseMaker PA,NULL,0,2,l,NULL,0,1,1,1
+b,644,600,Gate,BaseMaker PA,SE,0,2,l,Gate,0,0,1,1
+b,645,601,Gate,BaseMaker PA,NE,0,2,l,Gate,0,0,1,1
+b,646,602,Gate,BaseMaker PA,SW,0,2,l,Gate,0,0,1,1
+b,647,603,Gate,BaseMaker PA,NW,0,2,l,Gate,0,0,1,1
+b,1027,912,Gate,BaseMaker Cermak,NULL,0,2,l,Gate,0,0,1,1
+b,1028,913,Gate,BaseMaker Cermak,NULL,0,2,l,Gate,0,0,1,1
+b,708,671,Gate Control,BaseMaker PA,SE,0,2,l,Gate Control,0,1,1,1
+b,709,672,Gate Control,BaseMaker PA,SW,0,2,l,Gate Control,0,1,1,1
+b,710,673,Gate Control,BaseMaker PA,NW,0,2,l,Gate Control,0,1,1,1
+b,711,674,Gate Control,BaseMaker PA,NE,0,2,l,Gate Control,0,1,1,1
+b,946,831,Gate Control,BaseMaker Cermak,1,0,2,l,Gate Control,0,1,1,1
+b,947,832,Gate Control,BaseMaker Cermak,2,0,2,l,Gate Control,0,1,1,1
+b,690,656,Large Gate,BaseMaker PA,SE,0,2,l,Gate,0,0,1,1
+b,691,657,Large Gate,BaseMaker PA,NE,0,2,l,Gate,0,0,1,1
+b,692,658,Large Gate,BaseMaker PA,SW,0,2,l,Gate,0,0,1,1
+b,693,659,Large Gate,BaseMaker PA,NW,0,2,l,Gate,0,0,1,1
+b,1029,914,Large Gate,BaseMaker Cermak,NULL,0,2,l,Gate,0,0,1,1
+b,1030,915,Large Gate,BaseMaker Cermak,NULL,0,2,l,Gate,0,0,1,1
+b,704,667,Large Gate Control,BaseMaker PA,SE,0,2,l,Gate Control,0,1,1,1
+b,705,668,Large Gate Control,BaseMaker PA,SW,0,2,l,Gate Control,0,1,1,1
+b,706,669,Large Gate Control,BaseMaker PA,NW,0,2,l,Gate Control,0,1,1,1
+b,707,670,Large Gate Control,BaseMaker PA,NE,0,2,l,Gate Control,0,1,1,1
+b,872,829,Large Gate Control,BaseMaker Cermak,,0,2,l,Gate Control,0,1,1,1
+b,945,830,Large Gate Control,BaseMaker Cermak,2,0,2,l,Gate Control,0,1,1,1
+b,1189,1100,Main Power,BaseMaker PA,NULL,0,2,l,Power Station,0,1,1,1
+b,966,851,Main Power,BaseMaker Cermak,NULL,0,2,l,Power Station,0,1,1,1
+b,638,396,Main Power (Off),BaseMaker PA,NULL,0,2,l,NULL,0,1,1,1
+b,633,589,Mech Repair Bay,BaseMaker PA,NULL,0,2,l,Repair Bay,0,1,1,1
+b,979,864,Mech Repair Bay,BaseMaker Cermak,NULL,0,2,l,Repair Bay,0,1,1,1
+b,480,442,Perimeter Alarm,BaseMaker PA,NULL,0,2,l,Perimeter Alarm,0,1,1,1
+b,983,868,Perimeter Alarm,BaseMaker Cermak,1,0,2,l,Perimeter Alarm,0,1,1,1
+b,628,584,Sensor Control,BaseMaker PA,SE,0,2,l,Sensor Control,0,1,1,1
+b,629,585,Sensor Control,BaseMaker PA,SW,0,2,l,Sensor Control,0,1,1,1
+b,985,870,Sensor Control,BaseMaker Cermak,1,0,2,l,Sensor Control,0,1,1,1
+b,986,871,Sensor Control,BaseMaker Cermak,2,0,2,l,Sensor Control,0,1,1,1
+b,486,447,Sensor Tower,BaseMaker PA,SW,0,2,l,Sensor Tower,0,1,1,1
+b,487,448,Sensor Tower,BaseMaker PA,NE,0,2,l,Sensor Tower,0,1,1,1
+b,469,431,Turret Control,BaseMaker PA,NULL,0,2,l,Turret Control,0,1,1,1
+b,869,826,Turret Control,BaseMaker Cermak,NULL,0,2,l,Turret Control,0,1,1,1
+b,992,877,Turret Control (Heavy),BaseMaker Cermak,1,0,2,l,Turret Control,0,1,1,1
+b,1006,891,Turret Control (Heavy),BaseMaker Cermak,2,0,2,l,Turret Control,0,1,1,1
+b,1007,892,Turret Control (Heavy),BaseMaker Cermak,3,0,2,l,Turret Control,0,1,1,1
+b,1008,893,Turret Control (Heavy),BaseMaker Cermak,4,0,2,l,Turret Control,0,1,1,1
+b,401,589,Vehicle Repair Bay (Passive),BaseMaker PA,NULL,0,2,l,NULL,0,1,1,1
+b,993,864,Vehicle Repair Bay (Passive),BaseMaker Cermak,NULL,0,2,l,NULL,0,1,1,1
+
+b,30,38,Chemical Plant,Commercial,NE,0,2,l,NULL,0,1,1,1
+b,115,100,Chemical Plant,Commercial,SE,0,2,l,NULL,0,1,1,1
+b,116,101,Chemical Plant,Commercial,SW,0,2,l,NULL,0,1,1,1
+b,117,102,Chemical Plant,Commercial,NW,0,2,l,NULL,0,1,1,1
+b,327,288,Chemical Plant,Commercial,NW,0,2,l,NULL,0,1,1,1
+b,328,289,Chemical Plant,Commercial,NE,0,2,l,NULL,0,1,1,1
+b,329,290,Chemical Plant,Commercial,SW,0,2,l,NULL,0,1,1,1
+b,330,291,Chemical Plant,Commercial,SE,0,2,l,NULL,0,1,1,1
+b,28,36,Geodesic Dome,Commercial,R5,0,2,l,NULL,0,1,1,1
+b,84,69,Geodesic Dome,Commercial,R6,0,2,l,NULL,0,1,1,1
+b,307,276,Geodesic Dome,Commercial,R1,0,2,l,NULL,0,1,1,1
+b,308,277,Geodesic Dome,Commercial,R2,0,2,l,NULL,0,1,1,1
+b,309,278,Geodesic Dome,Commercial,R3,0,2,l,NULL,0,1,1,1
+b,310,279,Geodesic Dome,Commercial,R4,0,2,l,NULL,0,1,1,1
+b,624,580,Loading Facility,Commercial,SW,0,2,a,NULL,0,1,1,1
+b,625,581,Loading Facility,Commercial,SE,0,2,a,NULL,0,1,1,1
+b,626,582,Loading Facility,Commercial,NE,0,2,a,NULL,0,1,1,1
+b,627,583,Loading Facility,Commercial,NW,0,2,a,NULL,0,1,1,1
+b,538,494,Loading Platform,Commercial,SW,0,2,a,NULL,0,1,1,1
+b,539,495,Loading Platform,Commercial,SE,0,2,a,NULL,0,1,1,1
+b,540,496,Loading Platform,Commercial,NE,0,2,a,NULL,0,1,1,1
+b,541,497,Loading Platform,Commercial,NW,0,2,a,NULL,0,1,1,1
+b,35,43,Relay Station,Commercial,SW,0,2,l,NULL,0,1,1,1
+b,130,115,Relay Station,Commercial,NW,0,2,l,NULL,0,1,1,1
+b,131,116,Relay Station,Commercial,SE,0,2,l,NULL,0,1,1,1
+b,132,117,Relay Station,Commercial,NE,0,2,l,NULL,0,1,1,1
+
+b,851,808,Crater--Ash,Craters & Vents,1,0,2,l,NULL,0,0,0,1
+b,852,809,Crater--Ash,Craters & Vents,2,0,2,l,NULL,0,0,0,1
+b,853,810,Crater--Ash,Craters & Vents,3,0,2,l,NULL,0,0,0,1
+b,854,811,Crater--Ash,Craters & Vents,4,0,2,l,NULL,0,0,0,1
+b,843,800,Crater--Fungus,Craters & Vents,1,0,2,l,NULL,0,0,0,1
+b,844,801,Crater--Fungus,Craters & Vents,2,0,2,l,NULL,0,0,0,1
+b,845,802,Crater--Fungus,Craters & Vents,3,0,2,l,NULL,0,0,0,1
+b,846,803,Crater--Fungus,Craters & Vents,4,0,2,l,NULL,0,0,0,1
+b,847,804,Crater--Sand,Craters & Vents,1,0,2,l,NULL,0,0,0,1
+b,848,805,Crater--Sand,Craters & Vents,2,0,2,l,NULL,0,0,0,1
+b,849,806,Crater--Sand,Craters & Vents,3,0,2,l,NULL,0,0,0,1
+b,850,807,Crater--Sand,Craters & Vents,4,0,2,l,NULL,0,0,0,1
+b,865,822,Vent A--Ash,Craters & Vents,1,0,2,l,NULL,0,0,0,1
+b,866,823,Vent B--Ash,Craters & Vents,2,0,2,l,NULL,0,0,0,1
+b,867,824,Vent C--Ash,Craters & Vents,3,0,2,l,NULL,0,0,0,1
+b,868,825,Vent D--Ash,Craters & Vents,4,0,2,l,NULL,0,0,0,1
+b,857,814,Vent A--Fungus,Craters & Vents,1,0,2,l,NULL,0,0,0,1
+b,858,815,Vent B--Fungus,Craters & Vents,2,0,2,l,NULL,0,0,0,1
+b,859,816,Vent C--Fungus,Craters & Vents,3,0,2,l,NULL,0,0,0,1
+b,860,817,Vent D--Fungus,Craters & Vents,4,0,2,l,NULL,0,0,0,1
+b,861,818,Vent A--Sand,Craters & Vents,1,0,2,l,NULL,0,0,0,1
+b,862,819,Vent B--Sand,Craters & Vents,2,0,2,l,NULL,0,0,0,1
+b,863,820,Vent C--Sand,Craters & Vents,3,0,2,l,NULL,0,0,0,1
+b,864,821,Vent D--Sand,Craters & Vents,4,0,2,l,NULL,0,0,0,1
+
+b,303,240,Fuel Tank,Explosive Objects PA,R1,0,2,l,NULL,0,1,1,1
+b,304,241,Fuel Tank,Explosive Objects PA,R2,0,2,l,NULL,0,1,1,1
+b,305,242,Fuel Tank,Explosive Objects PA,R3,0,2,l,NULL,0,1,1,1
+b,306,243,Fuel Tank,Explosive Objects PA,R4,0,2,l,NULL,0,1,1,1
+b,1064,976,Fuel Tank,Explosive Objects Cermak,1,0,2,I,NULL,0,1,1,1
+b,279,272,Gas Tank,Explosive Objects PA,SE,0,2,l,NULL,0,1,1,1
+b,280,273,Gas Tank,Explosive Objects PA,SW,0,2,l,NULL,0,1,1,1
+b,281,274,Gas Tank,Explosive Objects PA,NW,0,2,l,NULL,0,1,1,1
+b,282,275,Gas Tank,Explosive Objects PA,NE,0,2,l,NULL,0,1,1,1
+b,1060,972,Gas Tank,Explosive Objects Cermak,1,0,2,I,NULL,0,1,1,1
+b,1061,973,Gas Tank,Explosive Objects Cermak,2,0,2,I,NULL,0,1,1,1
+b,1062,974,Gas Tank,Explosive Objects Cermak,3,0,2,I,NULL,0,1,1,1
+b,1063,975,Gas Tank,Explosive Objects Cermak,4,0,2,I,NULL,0,1,1,1
+b,640,596,Natural Gas Tower,Explosive Objects PA,NULL,0,2,l,NULL,0,1,1,1
+b,630,586,Oil Derrick,Explosive Objects PA,NULL,0,2,l,NULL,0,1,1,1
+b,805,762,Pipe Elbow,Explosive Objects Cermak,R,0,2,l,NULL,0,1,1,1
+b,806,763,Pipe Elbow,Explosive Objects Cermak,Q,0,2,l,NULL,0,1,1,1
+b,807,764,Pipe Elbow,Explosive Objects Cermak,T,0,2,l,NULL,0,1,1,1
+b,808,765,Pipe Elbow,Explosive Objects Cermak,S,0,2,l,NULL,0,1,1,1
+b,814,771,Pipe End,Explosive Objects Cermak,Y,0,2,l,NULL,0,1,1,1
+b,815,772,Pipe End,Explosive Objects Cermak,X,0,2,l,NULL,0,1,1,1
+b,816,773,Pipe End,Explosive Objects Cermak,W,0,2,l,NULL,0,1,1,1
+b,817,774,Pipe End,Explosive Objects Cermak,Z,0,2,l,NULL,0,1,1,1
+b,809,766,Pipe Fourway,Explosive Objects Cermak,P,0,2,l,NULL,0,1,1,1
+b,801,758,Pipe Straight A,Explosive Objects Cermak,U,0,2,l,NULL,0,1,1,1
+b,803,760,Pipe Straight A,Explosive Objects Cermak,U,0,2,l,NULL,0,1,1,1
+b,802,759,Pipe Straight B,Explosive Objects Cermak,V,0,2,l,NULL,0,1,1,1
+b,804,761,Pipe Straight B,Explosive Objects Cermak,V,0,2,l,NULL,0,1,1,1
+b,810,767,Pipe Threeway,Explosive Objects Cermak,C,0,2,l,NULL,0,1,1,1
+b,811,768,Pipe Threeway,Explosive Objects Cermak,B,0,2,l,NULL,0,1,1,1
+b,812,769,Pipe Threeway,Explosive Objects Cermak,A,0,2,l,NULL,0,1,1,1
+b,813,770,Pipe Threeway,Explosive Objects Cermak,D,0,2,l,NULL,0,1,1,1
+b,533,489,Pressure Tank,Explosive Objects PA,NULL,0,2,l,NULL,0,1,1,1
+b,984,869,Pressure Tank,Explosive Objects Cermak,1,0,2,l,NULL,0,1,1,1
+b,611,567,Team 1 (Allied) Mines,Explosive Objects PA,NULL,0,2,l,NULL,0,0,1,0
+b,522,478,Team 2 (Enemy) Mines,Explosive Objects PA,NULL,0,2,l,NULL,0,0,1,0
+b,60,396,Square mines (Enemy),Explosive Objects PA,NULL,0,2,l,NULL,0,0,0,0
+
+b,252,245,Barrels,Incidental,,0,2,l,NULL,0,0,0,1
+b,253,246,Barrels,Incidental,,0,2,l,NULL,0,0,0,1
+b,254,247,Barrels,Incidental,,0,2,l,NULL,0,0,0,1
+b,255,248,Barrels,Incidental,,0,2,l,NULL,0,0,0,1
+b,525,481,Billboard,Incidental,SW,0,2,l,NULL,0,0,0,1
+b,526,482,Billboard,Incidental,SE,0,2,l,NULL,0,0,0,1
+b,527,483,Billboard,Incidental,NW,0,2,l,NULL,0,0,0,1
+b,528,484,Billboard,Incidental,NE,0,2,l,NULL,0,0,0,1
+b,529,485,Billboard,Incidental,SE,0,2,l,NULL,0,0,0,1
+b,530,486,Billboard,Incidental,SW,0,2,l,NULL,0,0,0,1
+b,531,487,Billboard,Incidental,SE,0,2,l,NULL,0,0,0,1
+b,532,488,Billboard,Incidental,SW,0,2,l,NULL,0,0,0,1
+b,648,605,Debris,Incidental,R1,0,2,a,NULL,0,0,0,1
+b,649,606,Debris,Incidental,R2,0,2,a,NULL,0,0,0,1
+b,650,607,Debris,Incidental,R3,0,2,a,NULL,0,0,0,1
+b,651,608,Debris,Incidental,R4,0,2,a,NULL,0,0,0,1
+b,686,652,Flag,Incidental,NULL,0,2,l,NULL,0,0,0,1
+b,687,653,Flag,Incidental,NULL,0,2,l,NULL,0,0,0,1
+b,688,654,Flag,Incidental,NULL,0,2,l,NULL,0,0,0,1
+b,200,172,Junked Cars,Incidental,SE,0,2,l,NULL,0,0,0,1
+b,201,173,Junked Cars,Incidental,SW,0,2,l,NULL,0,0,0,1
+b,202,174,Junked Cars,Incidental,NW,0,2,l,NULL,0,0,0,1
+b,203,175,Junked Cars,Incidental,NE,0,2,l,NULL,0,0,0,1
+b,726,689,Missile Turret (Inert),Incidental,NULL,0,2,l,NULL,0,0,0,1
+b,559,515,Quonset Hut,Incidental,R1,0,2,l,NULL,0,0,0,1
+b,560,516,Quonset Hut,Incidental,R2,0,2,l,NULL,0,0,0,1
+b,561,517,Quonset Hut,Incidental,R1,0,2,l,NULL,0,0,0,1
+b,562,518,Quonset Hut,Incidental,R2,0,2,l,NULL,0,0,0,1
+b,563,519,Quonset Hut,Incidental,R1,0,2,l,NULL,0,0,0,1
+b,564,520,Quonset Hut,Incidental,R2,0,2,l,NULL,0,0,0,1
+b,577,533,Railroad Tower,Incidental,SE,0,2,l,NULL,0,0,0,1
+b,578,534,Railroad Tower,Incidental,NE,0,2,l,NULL,0,0,0,1
+b,579,535,Railroad Tower,Incidental,NW,0,2,l,NULL,0,0,0,1
+b,580,536,Railroad Tower,Incidental,SW,0,2,l,NULL,0,0,0,1
+b,581,537,Railroad Tower,Incidental,NW,0,2,l,NULL,0,0,0,1
+b,582,538,Railroad Tower,Incidental,SW,0,2,l,NULL,0,0,0,1
+b,583,539,Railroad Tower,Incidental,SE,0,2,l,NULL,0,0,0,1
+b,584,540,Railroad Tower,Incidental,NE,0,2,l,NULL,0,0,0,1
+b,268,261,Roadblock,Incidental,,0,2,l,NULL,0,0,0,1
+b,269,262,Roadblock,Incidental,,0,2,l,NULL,0,0,0,1
+b,270,263,Roadblock,Incidental,,0,2,l,NULL,0,0,0,1
+b,271,264,Roadblock,Incidental,,0,2,l,NULL,0,0,0,1
+b,275,268,Streetlamp,Incidental,NE,0,2,l,NULL,0,0,0,1
+b,276,269,Streetlamp,Incidental,SE,0,2,l,NULL,0,0,0,1
+b,277,270,Streetlamp,Incidental,SW,0,2,l,NULL,0,0,0,1
+b,278,271,Streetlamp,Incidental,NW,0,2,l,NULL,0,0,0,1
+b,534,490,Supply Container,Incidental,SE,0,2,l,NULL,0,0,0,1
+b,535,491,Supply Container,Incidental,SW,0,2,l,NULL,0,0,0,1
+b,571,527,Tent,Incidental,R1,0,2,l,NULL,0,0,0,1
+b,572,528,Tent,Incidental,R2,0,2,l,NULL,0,0,0,1
+b,573,529,Tent,Incidental,R1,0,2,l,NULL,0,0,0,1
+b,574,530,Tent,Incidental,R2,0,2,l,NULL,0,0,0,1
+b,575,531,Tent,Incidental,R1,0,2,l,NULL,0,0,0,1
+b,576,532,Tent,Incidental,R2,0,2,l,NULL,0,0,0,1
+b,520,476,Water Fountain,Incidental,,0,2,l,NULL,0,0,0,1
+b,140,125,Water Tower,Incidental,R1,0,2,l,NULL,0,0,0,1
+b,141,126,Water Tower,Incidental,R2,0,2,l,NULL,0,0,0,1
+b,643,599,Windmill Port Arthur,Incidental,NULL,0,2,l,NULL,0,0,0,1
+b,1055,967,Windmill Cermak,Incidental,1,0,2,I,NULL,0,0,0,1
+
+b,31,39,Factory,Industrial PA,SE,0,2,l,NULL,0,1,1,1
+b,124,109,Factory,Industrial PA,SW,0,2,l,NULL,0,1,1,1
+b,347,300,Factory,Industrial PA,SE,0,2,l,NULL,0,1,1,1
+b,348,301,Factory,Industrial PA,SW,0,2,l,NULL,0,1,1,1
+b,961,846,Factory,Industrial Cermak,1,0,2,l,NULL,0,1,1,1
+b,962,847,Factory,Industrial Cermak,2,0,2,l,NULL,0,1,1,1
+b,963,848,Factory,Industrial Cermak,3,0,2,l,NULL,0,1,1,1
+b,964,849,Factory,Industrial Cermak,4,0,2,l,NULL,0,1,1,1
+b,769,726,Gantry ,Industrial Cermak,NW,0,2,l,NULL,0,1,1,1
+b,204,176,HazMat Sphere,Industrial PA,1,0,2,l,NULL,0,1,1,1
+b,205,177,HazMat Sphere,Industrial PA,2,0,2,l,NULL,0,1,1,1
+b,206,178,HazMat Sphere,Industrial PA,3,0,2,l,NULL,0,1,1,1
+b,207,179,HazMat Sphere,Industrial PA,4,0,2,l,NULL,0,1,1,1
+b,1056,968,HazMat Sphere,Industrial Cermak,1,0,2,I,NULL,0,1,1,1
+b,1057,969,HazMat Sphere,Industrial Cermak,2,0,2,I,NULL,0,1,1,1
+b,1058,970,HazMat Sphere,Industrial Cermak,3,0,2,I,NULL,0,1,1,1
+b,1059,971,HazMat Sphere,Industrial Cermak,4,0,2,I,NULL,0,1,1,1
+b,110,95,Heavy Factory,Industrial PA,SW,0,2,l,NULL,0,1,1,1
+b,111,96,Heavy Factory,Industrial PA,SE,0,2,l,NULL,0,1,1,1
+b,112,97,Heavy Factory,Industrial PA,NW,0,2,l,NULL,0,1,1,1
+b,113,98,Heavy Factory,Industrial PA,NE,0,2,l,NULL,0,1,1,1
+b,323,284,Heavy Factory,Industrial PA,SE,0,2,l,NULL,0,1,1,1
+b,324,285,Heavy Factory,Industrial PA,SW,0,2,l,NULL,0,1,1,1
+b,325,286,Heavy Factory,Industrial PA,NE,0,2,l,NULL,0,1,1,1
+b,326,287,Heavy Factory,Industrial PA,NW,0,2,l,NULL,0,1,1,1
+b,118,103,Heavy Industrial,Industrial PA,SW,0,2,l,NULL,0,1,1,1
+b,120,105,Heavy Industrial,Industrial PA,SE,0,2,l,NULL,0,1,1,1
+b,121,106,Heavy Industrial,Industrial PA,NE,0,2,l,NULL,0,1,1,1
+b,331,292,Heavy Industrial,Industrial PA,SE,0,2,l,NULL,0,1,1,1
+b,332,293,Heavy Industrial,Industrial PA,SW,0,2,l,NULL,0,1,1,1
+b,333,294,Heavy Industrial,Industrial PA,NE,0,2,l,NULL,0,1,1,1
+b,334,295,Heavy Industrial,Industrial PA,NW,0,2,l,NULL,0,1,1,1
+b,967,852,Hydroponics Facility,Industrial Cermak,1,0,2,l,NULL,0,1,1,1
+b,968,853,Hydroponics Facility,Industrial Cermak,2,0,2,l,NULL,0,1,1,1
+b,969,854,Hydroponics Facility,Industrial Cermak,3,0,2,l,NULL,0,1,1,1
+b,970,855,Hydroponics Facility,Industrial Cermak,4,0,2,l,NULL,0,1,1,1
+b,720,683,Industrial Complex,Industrial PA,SW,0,2,l,NULL,0,1,1,1
+b,721,684,Industrial Complex,Industrial PA,SE,0,2,l,NULL,0,1,1,1
+b,975,860,Industrial Complex,Industrial Cermak,1,0,2,l,NULL,0,1,1,1
+b,976,861,Industrial Complex,Industrial Cermak,2,0,2,l,NULL,0,1,1,1
+b,122,107,Industrial Plant,Industrial PA,S,0,2,l,NULL,0,1,1,1
+b,123,108,Industrial Plant,Industrial PA,SE,0,2,l,NULL,0,1,1,1
+b,335,296,Industrial Plant,Industrial PA,SW,0,2,l,NULL,0,1,1,1
+b,336,297,Industrial Plant,Industrial PA,NW,0,2,l,NULL,0,1,1,1
+b,337,298,Industrial Plant,Industrial PA,NE,0,2,l,NULL,0,1,1,1
+b,338,299,Industrial Plant,Industrial PA,SE,0,2,l,NULL,0,1,1,1
+b,977,862,Liquid Storage,Industrial Cermak,1,0,2,l,NULL,0,1,1,1
+b,978,863,Liquid Storage,Industrial Cermak,2,0,2,l,NULL,0,1,1,1
+b,1009,894,Liquid Storage,Industrial Cermak,3,0,2,l,NULL,0,1,1,1
+b,1010,895,Liquid Storage,Industrial Cermak,4,0,2,l,NULL,0,1,1,1
+b,142,127,Liquid Storage A,Industrial PA,R1,0,2,l,NULL,0,1,1,1
+b,143,128,Liquid Storage A,Industrial PA,R2,0,2,l,NULL,0,1,1,1
+b,722,685,Liquid Storage B,Industrial PA,R1,0,2,l,NULL,0,1,1,1
+b,723,686,Liquid Storage B,Industrial PA,R2,0,2,l,NULL,0,1,1,1
+b,724,687,Liquid Storage B,Industrial PA,R3,0,2,l,NULL,0,1,1,1
+b,725,688,Liquid Storage B,Industrial PA,R4,0,2,l,NULL,0,1,1,1
+b,38,46,Processing Plant,Industrial PA,SE,0,2,l,NULL,0,1,1,1
+b,134,119,Processing Plant,Industrial PA,NW,0,2,l,NULL,0,1,1,1
+b,135,120,Processing Plant,Industrial PA,NE,0,2,l,NULL,0,1,1,1
+b,136,121,Processing Plant,Industrial PA,SW,0,2,l,NULL,0,1,1,1
+b,383,324,Processing Plant,Industrial PA,NW,0,2,l,NULL,0,1,1,1
+b,738,695,Processing Plant,Industrial Cermak,SW,0,2,l,NULL,0,1,1,1
+b,739,696,Processing Plant,Industrial Cermak,SE,0,2,l,NULL,0,1,1,1
+b,740,697,Processing Plant,Industrial Cermak,NE,0,2,l,NULL,0,1,1,1
+b,741,698,Processing Plant,Industrial Cermak,NW,0,2,l,NULL,0,1,1,1
+b,759,716,Relay Station,Industrial Cermak,SW,0,2,l,NULL,0,1,1,1
+
+b,208,180,Large Tree A,Landscape PA,NULL,1,2,l,NULL,0,0,0,0
+b,212,184,Large Tree B,Landscape PA,NULL,1,2,l,NULL,0,0,0,0
+b,216,188,Large Tree C,Landscape PA,NULL,1,2,l,NULL,0,0,0,0
+b,272,265,Rock Cluster A,Landscape PA,NULL,0,2,a,NULL,0,0,0,1
+b,273,266,Rock Cluster B,Landscape PA,NULL,0,2,a,NULL,0,0,0,1
+b,274,267,Rock Cluster C,Landscape PA,NULL,0,2,a,NULL,0,0,0,1
+b,220,192,Small Tree A,Landscape PA,NULL,1,2,l,NULL,0,0,0,0
+b,224,196,Small Tree B,Landscape PA,NULL,1,2,l,NULL,0,0,0,0
+b,228,200,Small Tree C,Landscape PA,NULL,1,2,l,NULL,0,0,0,0
+b,232,204,Small Tree D,Landscape PA,NULL,1,2,l,NULL,0,0,0,0
+b,240,212,Small Tree E,Landscape PA,NULL,1,2,l,NULL,0,0,0,0
+b,238,396,Small Tree F,Landscape PA,NULL,1,2,l,NULL,0,0,0,0
+b,1075,988,Tree A ,Landscape Cermak,NULL,1,2,l,NULL,0,0,0,0
+b,793,750,Tree A (Dead),Landscape Cermak,NULL,1,2,l,NULL,0,0,0,0
+b,1076,989,Tree B,Landscape Cermak,NULL,1,2,l,NULL,0,0,0,0
+b,797,754,Tree B (Dead),Landscape Cermak,NULL,1,2,l,NULL,0,0,0,0
+b,1077,990,Tree C,Landscape Cermak,NULL,1,2,l,NULL,0,0,0,0
+b,1039,951,Tree C (Dead),Landscape Cermak,NULL,1,2,l,NULL,0,0,0,0
+b,1078,993,Tree D,Landscape Cermak,NULL,1,2,l,NULL,0,0,0,0
+b,1043,955,Tree D (Dead),Landscape Cermak,NULL,1,2,l,NULL,0,0,0,0
+b,1047,959,Tree E (Dead),Landscape Cermak,NULL,1,2,l,NULL,0,0,0,0
+b,1066,979,Tree F (Dead),Landscape Cermak,NULL,1,2,I,NULL,0,0,0,0
+b,1070,983,Tree G (Dead),Landscape Cermak,NULL,1,2,I,NULL,0,0,0,0
+b,1074,987,Tree H (Dead),Landscape Cermak,NULL,1,2,I,NULL,0,0,0,0
+
+b,789,396,Tree Turret Control,Laughable,NULL,0,2,l,Turret Control,0,1,1,1
+
+
+b,1107,1023,Cougar,Mechs: Clan,1,0,2,l,Mech,201000,0,1,0
+b,1108,1024,Cougar,Mechs: Clan,2,0,2,l,Mech,201000,0,1,0
+b,1109,1025,Cougar,Mechs: Clan,3,0,2,l,Mech,201000,0,1,0
+b,1110,1026,Cougar,Mechs: Clan,4,0,2,l,Mech,201000,0,1,0
+b,1123,1039,Hunchback IIC,Mechs: Clan,1,0,2,l,Mech,203000,0,1,0
+b,1124,1040,Hunchback IIC,Mechs: Clan,2,0,2,l,Mech,203000,0,1,0
+b,1125,1041,Hunchback IIC,Mechs: Clan,3,0,2,l,Mech,203000,0,1,0
+b,1126,1042,Hunchback IIC,Mechs: Clan,4,0,2,l,Mech,203000,0,1,0
+b,1131,1047,Loki,Mechs: Clan,1,0,2,l,Mech,205000,0,1,0
+b,1132,1048,Loki,Mechs: Clan,2,0,2,l,Mech,205000,0,1,0
+b,1133,1049,Loki,Mechs: Clan,3,0,2,l,Mech,205000,0,1,0
+b,1134,1050,Loki,Mechs: Clan,4,0,2,l,Mech,205000,0,1,0
+b,1135,1051,Mad Cat,Mechs: Clan,1,0,2,l,Mech,207000,0,1,0
+b,1136,1052,Mad Cat,Mechs: Clan,2,0,2,l,Mech,207000,0,1,0
+b,1137,1053,Mad Cat,Mechs: Clan,3,0,2,l,Mech,207000,0,1,0
+b,1138,1054,Mad Cat,Mechs: Clan,4,0,2,l,Mech,207000,0,1,0
+b,1139,1055,Masakari,Mechs: Clan,1,0,2,l,Mech,208000,0,1,0
+b,1140,1056,Masakari,Mechs: Clan,2,0,2,l,Mech,208000,0,1,0
+b,1141,1057,Masakari,Mechs: Clan,3,0,2,l,Mech,208000,0,1,0
+b,1142,1058,Masakari,Mechs: Clan,4,0,2,l,Mech,208000,0,1,0
+b,1175,1091,Nova Cat,Mechs: Clan,1,0,2,l,Mech,210000,0,1,0
+b,1176,1092,Nova Cat,Mechs: Clan,2,0,2,l,Mech,210000,0,1,0
+b,1177,1093,Nova Cat,Mechs: Clan,3,0,2,l,Mech,210000,0,1,0
+b,1178,1094,Nova Cat,Mechs: Clan,4,0,2,l,Mech,210000,0,1,0
+b,1171,1087,Shadow Cat,Mechs: Clan,1,0,2,l,Mech,209000,0,1,0
+b,1172,1088,Shadow Cat,Mechs: Clan,2,0,2,l,Mech,209000,0,1,0
+b,1173,1089,Shadow Cat,Mechs: Clan,3,0,2,l,Mech,209000,0,1,0
+b,1174,1090,Shadow Cat,Mechs: Clan,4,0,2,l,Mech,209000,0,1,0
+b,1147,1063,Thor,Mechs: Clan,1,0,2,l,Mech,206000,0,1,0
+b,1148,1064,Thor,Mechs: Clan,2,0,2,l,Mech,206000,0,1,0
+b,1149,1065,Thor,Mechs: Clan,3,0,2,l,Mech,206000,0,1,0
+b,1150,1066,Thor,Mechs: Clan,4,0,2,l,Mech,206000,0,1,0
+b,1179,1095,Turkina,Mechs: Clan,1,0,2,l,Mech,211000,0,1,0
+b,1180,1096,Turkina,Mechs: Clan,2,0,2,l,Mech,211000,0,1,0
+b,1181,1097,Turkina,Mechs: Clan,3,0,2,l,Mech,211000,0,1,0
+b,1182,1098,Turkina,Mechs: Clan,4,0,2,l,Mech,211000,0,1,0
+b,1151,1067,Uller,Mechs: Clan,1,0,2,l,Mech,200000,0,1,0
+b,1152,1068,Uller,Mechs: Clan,2,0,2,l,Mech,200000,0,1,0
+b,1153,1069,Uller,Mechs: Clan,3,0,2,l,Mech,200000,0,1,0
+b,1154,1070,Uller,Mechs: Clan,4,0,2,l,Mech,200000,0,1,0
+b,1155,1071,Vulture,Mechs: Clan,1,0,2,l,Mech,204000,0,1,0
+b,1156,1072,Vulture,Mechs: Clan,2,0,2,l,Mech,204000,0,1,0
+b,1157,1073,Vulture,Mechs: Clan,3,0,2,l,Mech,204000,0,1,0
+b,1158,1074,Vulture,Mechs: Clan,4,0,2,l,Mech,204000,0,1,0
+
+b,1087,1003,Atlas,Mechs: IS Heavy & Assault,1,0,2,l,Mech,109000,0,1,0
+b,1088,1004,Atlas,Mechs: IS Heavy & Assault,2,0,2,l,Mech,109000,0,1,0
+b,1089,1005,Atlas,Mechs: IS Heavy & Assault,3,0,2,l,Mech,109000,0,1,0
+b,1090,1006,Atlas,Mechs: IS Heavy & Assault,4,0,2,l,Mech,109000,0,1,0
+b,1091,1007,Awesome,Mechs: IS Heavy & Assault,1,0,2,l,Mech,108000,0,1,0
+b,1092,1008,Awesome,Mechs: IS Heavy & Assault,2,0,2,l,Mech,108000,0,1,0
+b,1093,1009,Awesome,Mechs: IS Heavy & Assault,3,0,2,l,Mech,108000,0,1,0
+b,1094,1010,Awesome,Mechs: IS Heavy & Assault,4,0,2,l,Mech,108000,0,1,0
+b,1095,1011,Catapult,Mechs: IS Heavy & Assault,1,0,2,l,Mech,106000,0,1,0
+b,1096,1012,Catapult,Mechs: IS Heavy & Assault,2,0,2,l,Mech,106000,0,1,0
+b,1097,1013,Catapult,Mechs: IS Heavy & Assault,3,0,2,l,Mech,106000,0,1,0
+b,1098,1014,Catapult,Mechs: IS Heavy & Assault,4,0,2,l,Mech,106000,0,1,0
+b,1127,1043,Jagermech,Mechs: IS Heavy & Assault,1,0,2,l,Mech,107000,0,1,0
+b,1128,1044,Jagermech,Mechs: IS Heavy & Assault,2,0,2,l,Mech,107000,0,1,0
+b,1129,1045,Jagermech,Mechs: IS Heavy & Assault,3,0,2,l,Mech,107000,0,1,0
+b,1130,1046,Jagermech,Mechs: IS Heavy & Assault,4,0,2,l,Mech,107000,0,1,0
+b,1167,1083,Mauler,Mechs: IS Heavy & Assault,1,0,2,l,Mech,112000,0,1,0
+b,1168,1084,Mauler,Mechs: IS Heavy & Assault,2,0,2,l,Mech,112000,0,1,0
+b,1169,1085,Mauler,Mechs: IS Heavy & Assault,3,0,2,l,Mech,112000,0,1,0
+b,1170,1086,Mauler,Mechs: IS Heavy & Assault,4,0,2,l,Mech,112000,0,1,0
+
+b,1163,1079,Bushwhacker,Mechs: IS Light & Medium,1,0,2,l,Mech,111000,0,1,0
+b,1164,1080,Bushwhacker,Mechs: IS Light & Medium,2,0,2,l,Mech,111000,0,1,0
+b,1165,1081,Bushwhacker,Mechs: IS Light & Medium,3,0,2,l,Mech,111000,0,1,0
+b,1166,1082,Bushwhacker,Mechs: IS Light & Medium,4,0,2,l,Mech,111000,0,1,0
+b,1099,1015,Centurion,Mechs: IS Light & Medium,1,0,2,l,Mech,105000,0,1,0
+b,1100,1016,Centurion,Mechs: IS Light & Medium,2,0,2,l,Mech,105000,0,1,0
+b,1101,1017,Centurion,Mechs: IS Light & Medium,3,0,2,l,Mech,105000,0,1,0
+b,1102,1018,Centurion,Mechs: IS Light & Medium,4,0,2,l,Mech,105000,0,1,0
+b,1103,1019,Commando,Mechs: IS Light & Medium,1,0,2,l,Mech,100000,0,1,0
+b,1104,1020,Commando,Mechs: IS Light & Medium,2,0,2,l,Mech,100000,0,1,0
+b,1105,1021,Commando,Mechs: IS Light & Medium,3,0,2,l,Mech,100000,0,1,0
+b,1106,1022,Commando,Mechs: IS Light & Medium,4,0,2,l,Mech,100000,0,1,0
+b,1111,1027,Firestarter,Mechs: IS Light & Medium,1,0,2,l,Mech,101000,0,1,0
+b,1112,1028,Firestarter,Mechs: IS Light & Medium,2,0,2,l,Mech,101000,0,1,0
+b,1113,1029,Firestarter,Mechs: IS Light & Medium,3,0,2,l,Mech,101000,0,1,0
+b,1114,1030,Firestarter,Mechs: IS Light & Medium,4,0,2,l,Mech,101000,0,1,0
+b,1115,1031,Hollander II,Mechs: IS Light & Medium,1,0,2,l,Mech,103000,0,1,0
+b,1116,1032,Hollander II,Mechs: IS Light & Medium,2,0,2,l,Mech,103000,0,1,0
+b,1117,1033,Hollander II,Mechs: IS Light & Medium,3,0,2,l,Mech,103000,0,1,0
+b,1118,1034,Hollander II,Mechs: IS Light & Medium,4,0,2,l,Mech,103000,0,1,0
+b,1119,1035,Hunchback,Mechs: IS Light & Medium,1,0,2,l,Mech,104000,0,1,0
+b,1120,1036,Hunchback,Mechs: IS Light & Medium,2,0,2,l,Mech,104000,0,1,0
+b,1121,1037,Hunchback,Mechs: IS Light & Medium,3,0,2,l,Mech,104000,0,1,0
+b,1122,1038,Hunchback,Mechs: IS Light & Medium,4,0,2,l,Mech,104000,0,1,0
+b,1143,1059,Raven,Mechs: IS Light & Medium,1,0,2,l,Mech,102000,0,1,0
+b,1144,1060,Raven,Mechs: IS Light & Medium,2,0,2,l,Mech,102000,0,1,0
+b,1145,1061,Raven,Mechs: IS Light & Medium,3,0,2,l,Mech,102000,0,1,0
+b,1146,1062,Raven,Mechs: IS Light & Medium,4,0,2,l,Mech,102000,0,1,0
+b,1159,1075,Stiletto,Mechs: IS Light & Medium,1,0,2,l,Mech,110000,0,1,0
+b,1160,1076,Stiletto,Mechs: IS Light & Medium,2,0,2,l,Mech,110000,0,1,0
+b,1161,1077,Stiletto,Mechs: IS Light & Medium,3,0,2,l,Mech,110000,0,1,0
+b,1162,1078,Stiletto,Mechs: IS Light & Medium,4,0,2,l,Mech,110000,0,1,0
+
+b,1091,396,Damaged Awesome (A),Mechs: Prototypes,1,0,2,l,Mech,108001,0,1,0
+b,1092,396,Damaged Awesome (A),Mechs: Prototypes,2,0,2,l,Mech,108001,0,1,0
+b,1093,396,Damaged Awesome (A),Mechs: Prototypes,3,0,2,l,Mech,108001,0,1,0
+b,1094,396,Damaged Awesome (A),Mechs: Prototypes,4,0,2,l,Mech,108001,0,1,0
+b,1147,396,Damaged Thor (W),Mechs: Prototypes,1,0,2,l,Mech,206001,0,1,0
+b,1148,396,Damaged Thor (W),Mechs: Prototypes,2,0,2,l,Mech,206001,0,1,0
+b,1149,396,Damaged Thor (W),Mechs: Prototypes,3,0,2,l,Mech,206001,0,1,0
+b,1150,396,Damaged Thor (W),Mechs: Prototypes,4,0,2,l,Mech,206001,0,1,0
+b,1155,396,Furey's Vulture (A),Mechs: Prototypes,1,0,2,l,Mech,204001,0,1,0
+b,1156,396,Furey's Vulture (A),Mechs: Prototypes,2,0,2,l,Mech,204001,0,1,0
+b,1157,396,Furey's Vulture (A),Mechs: Prototypes,3,0,2,l,Mech,204001,0,1,0
+b,1158,396,Furey's Vulture (A),Mechs: Prototypes,4,0,2,l,Mech,204001,0,1,0
+
+
+b,23,31,Command Station,Military Buildings I PA,SE,0,2,l,NULL,0,1,1,1
+b,74,59,Command Station,Military Buildings I PA,NE,0,2,l,NULL,0,1,1,1
+b,75,60,Command Station,Military Buildings I PA,NW,0,2,l,NULL,0,1,1,1
+b,76,61,Command Station,Military Buildings I PA,W,0,2,l,NULL,0,1,1,1
+b,293,230,Command Station,Military Buildings I PA,SE,0,2,l,NULL,0,1,1,1
+b,294,231,Command Station,Military Buildings I PA,SW,0,2,l,NULL,0,1,1,1
+b,295,232,Command Station,Military Buildings I PA,SE,0,2,l,NULL,0,1,1,1
+b,296,233,Command Station,Military Buildings I PA,NW,0,2,l,NULL,0,1,1,1
+b,842,799,Beacon,Military Buildings I Cermak,1,0,2,l,NULL,0,1,1,1
+b,736,693,Command Station,Military Buildings I Cermak,SW,0,2,l,NULL,0,1,1,1
+b,737,694,Command Station,Military Buildings I Cermak,SE,0,2,l,NULL,0,1,1,1
+b,36,44,Field Office,Military Buildings I PA,SE,0,2,l,NULL,0,1,1,1
+b,133,118,Field Office,Military Buildings I PA,SW,0,2,l,NULL,0,1,1,1
+b,380,321,Field Office,Military Buildings I PA,NE,0,2,l,NULL,0,1,1,1
+b,381,322,Field Office,Military Buildings I PA,NE,0,2,l,NULL,0,1,1,1
+b,382,323,Field Office,Military Buildings I PA,SW,0,2,l,NULL,0,1,1,1
+b,948,833,Field Office,Military Buildings I Cermak,1,0,2,l,NULL,0,1,1,1
+b,949,834,Field Office,Military Buildings I Cermak,2,0,2,l,NULL,0,1,1,1
+b,950,835,Field Office,Military Buildings I Cermak,3,0,2,l,NULL,0,1,1,1
+b,951,836,Field Office,Military Buildings I Cermak,4,0,2,l,NULL,0,1,1,1
+b,89,74,Field Storage,Military Buildings I PA,NW,0,2,l,NULL,0,1,1,1
+b,91,76,Field Storage,Military Buildings I PA,SE,0,2,l,NULL,0,1,1,1
+b,92,77,Field Storage,Military Buildings I PA,NE,0,2,l,NULL,0,1,1,1
+b,264,257,Guard House,Military Buildings I PA,SE,0,2,l,NULL,0,1,1,1
+b,265,258,Guard House,Military Buildings I PA,SW,0,2,l,NULL,0,1,1,1
+b,266,259,Guard House,Military Buildings I PA,NW,0,2,l,NULL,0,1,1,1
+b,267,260,Guard House,Military Buildings I PA,NE,0,2,l,NULL,0,1,1,1
+b,855,812,Guard House,Military Buildings I Cermak,,0,2,l,NULL,0,1,1,1
+b,856,813,Guard House,Military Buildings I Cermak,,0,2,l,NULL,0,1,1,1
+b,1031,942,Guard House,Military Buildings I Cermak,,0,2,l,NULL,0,1,1,1
+b,1032,943,Guard House,Military Buildings I Cermak,,0,2,l,NULL,0,1,1,1
+b,260,396,Sand Bag Nest,Military Buildings I PA,1,0,2,l,NULL,0,1,1,1
+b,261,396,Sand Bag Nest,Military Buildings I PA,2,0,2,l,NULL,0,1,1,1
+b,262,396,Sand Bag Nest,Military Buildings I PA,3,0,2,l,NULL,0,1,1,1
+b,263,396,Sand Bag Nest,Military Buildings I PA,4,0,2,l,NULL,0,1,1,1
+b,258,396,Sand Bag Nest (Invincible),Military Buildings I PA,1,0,2,1,NULL,0,1,1,1
+b,259,396,Sand Bag Nest (Invincible),Military Buildings I PA,2,0,2,1,NULL,0,1,1,1
+b,256,396,Sand Bag Nest (Invincible),Military Buildings I PA,3,0,2,1,NULL,0,1,1,1
+b,257,396,Sand Bag Nest (Invincible),Military Buildings I PA,4,0,2,1,NULL,0,1,1,1
+b,488,449,Support Building,Military Buildings I PA,NULL,0,2,l,NULL,0,1,1,1
+b,991,876,Support Building,Military Buildings I Cermak,NULL,0,2,l,NULL,0,1,1,1
+b,101,86,Underground Bunker,Military Buildings I PA,SSW,0,2,l,NULL,0,1,1,1
+b,102,87,Underground Bunker,Military Buildings I PA,NNE,0,2,l,NULL,0,1,1,1
+b,103,88,Underground Bunker,Military Buildings I PA,NNW,0,2,l,NULL,0,1,1,1
+b,311,396,Watch Tower,Military Buildings I PA,1,0,2,l,NULL,0,1,1,1
+b,312,396,Watch Tower,Military Buildings I PA,2,0,2,l,NULL,0,1,1,1
+b,313,396,Watch Tower,Military Buildings I PA,3,0,2,l,NULL,0,1,1,1
+b,314,396,Watch Tower,Military Buildings I PA,4,0,2,l,NULL,0,1,1,1
+b,768,725,Watch Tower,Military Buildings I Cermak,SW,0,2,l,NULL,0,1,1,1
+b,1065,977,Watch Tower,Military Buildings I Cermak,SE,0,2,I,NULL,0,1,1,1
+
+b,593,549,Blast Deflector,Military Buildings II PA,R1,0,2,l,NULL,0,1,1,1
+b,594,550,Blast Deflector,Military Buildings II PA,R2,0,2,l,NULL,0,1,1,1
+b,595,551,Blast Deflector,Military Buildings II PA,R3,0,2,l,NULL,0,1,1,1
+b,596,552,Blast Deflector,Military Buildings II PA,R4,0,2,l,NULL,0,1,1,1
+b,597,553,Blast Deflector,Military Buildings II PA,R5,0,2,l,NULL,0,1,1,1
+b,598,554,Blast Deflector,Military Buildings II PA,R6,0,2,l,NULL,0,1,1,1
+b,599,555,Blast Deflector,Military Buildings II PA,R7,0,2,l,NULL,0,1,1,1
+b,600,556,Blast Deflector,Military Buildings II PA,R8,0,2,l,NULL,0,1,1,1
+b,601,557,Blast Deflector,Military Buildings II PA,R9,0,2,l,NULL,0,1,1,1
+b,602,558,Blast Deflector,Military Buildings II PA,R10,0,2,l,NULL,0,1,1,1
+b,603,559,Blast Deflector,Military Buildings II PA,R11,0,2,l,NULL,0,1,1,1
+b,604,560,Blast Deflector,Military Buildings II PA,R12,0,2,l,NULL,0,1,1,1
+b,605,561,Blast Deflector,Military Buildings II PA,R13,0,2,l,NULL,0,1,1,1
+b,606,562,Blast Deflector,Military Buildings II PA,R14,0,2,l,NULL,0,1,1,1
+b,607,563,Blast Deflector,Military Buildings II PA,R15,0,2,l,NULL,0,1,1,1
+b,608,564,Blast Deflector,Military Buildings II PA,R16,0,2,l,NULL,0,1,1,1
+b,80,65,Crew Barracks,Military Buildings II PA,NE,0,2,l,NULL,0,1,1,1
+b,81,66,Crew Barracks,Military Buildings II PA,NW,0,2,l,NULL,0,1,1,1
+b,82,67,Crew Barracks,Military Buildings II PA,SW,0,2,l,NULL,0,1,1,1
+b,83,68,Crew Barracks,Military Buildings II PA,SE,0,2,l,NULL,0,1,1,1
+b,494,455,Elemental Barracks,Military Buildings II PA,SW,0,2,l,NULL,0,1,1,1
+b,495,456,Elemental Barracks,Military Buildings II PA,SE,0,2,l,NULL,0,1,1,1
+b,956,841,Elemental Barracks,Military Buildings II Cermak,SW,0,2,l,NULL,0,1,1,1
+b,957,842,Elemental Barracks,Military Buildings II Cermak,SE,0,2,l,NULL,0,1,1,1
+b,489,450,Hangar,Military Buildings II PA,NULL,0,2,l,NULL,0,1,1,1
+b,971,856,Hangar,Military Buildings II Cermak,NULL,0,2,l,NULL,0,1,1,1
+b,499,460,Mechwarrior Barracks,Military Buildings II PA,SW,0,2,l,NULL,0,1,1,1
+b,500,461,Mechwarrior Barracks,Military Buildings II PA,NW,0,2,l,NULL,0,1,1,1
+b,501,462,Mechwarrior Barracks,Military Buildings II PA,NE,0,2,l,NULL,0,1,1,1
+b,502,463,Mechwarrior Barracks,Military Buildings II PA,NW,0,2,l,NULL,0,1,1,1
+b,952,837,Mechwarrior Barracks,Military Buildings II Cermak,SW,0,2,l,NULL,0,1,1,1
+b,953,838,Mechwarrior Barracks,Military Buildings II Cermak,NW,0,2,l,NULL,0,1,1,1
+b,954,839,Mechwarrior Barracks,Military Buildings II Cermak,NE,0,2,l,NULL,0,1,1,1
+b,955,840,Mechwarrior Barracks,Military Buildings II Cermak,NW,0,2,l,NULL,0,1,1,1
+b,85,70,Mission Control,Military Buildings II PA,R1,0,2,l,NULL,0,1,1,1
+b,86,71,Mission Control,Military Buildings II PA,R2,0,2,l,NULL,0,1,1,1
+b,87,72,Mission Control,Military Buildings II PA,R3,0,2,l,NULL,0,1,1,1
+b,88,73,Mission Control,Military Buildings II PA,R4,0,2,l,NULL,0,1,1,1
+b,1051,963,Mission Control,Military Buildings II Cermak,1,0,2,I,NULL,0,1,1,1
+b,1052,964,Mission Control,Military Buildings II Cermak,2,0,2,I,NULL,0,1,1,1
+b,1053,965,Mission Control,Military Buildings II Cermak,3,0,2,I,NULL,0,1,1,1
+b,1054,966,Mission Control,Military Buildings II Cermak,4,0,2,I,NULL,0,1,1,1
+b,641,396,Runway Lights,Military Buildings II PA,1,0,2,l,NULL,0,1,1,1
+b,642,396,Runway Lights,Military Buildings II PA,2,0,2,l,NULL,0,1,1,1
+b,712,675,Sabutai Omnifighter,Military Buildings II PA,NW,0,2,a,NULL,0,1,1,1
+b,713,676,Sabutai Omnifighter,Military Buildings II PA,NE,0,2,a,NULL,0,1,1,1
+b,714,677,Sabutai Omnifighter,Military Buildings II PA,SE,0,2,a,NULL,0,1,1,1
+b,715,678,Sabutai Omnifighter,Military Buildings II PA,SW,0,2,a,NULL,0,1,1,1
+
+b,550,506,Air Control Tower,Mission Objectives PA,NULL,0,2,l,NULL,0,1,1,1
+b,981,866,Air Control Tower,Mission Objectives Cermak,1,0,2,l,NULL,0,1,1,1
+b,518,475,Clan Administation Building,Mission Objectives PA,NULL,0,2,l,NULL,0,1,1,1
+b,752,709,Command Center,Mission Objectives Cermak,R1,0,2,l,NULL,0,1,1,1
+b,622,594,Data Center,Mission Objectives PA,NULL,0,2,l,NULL,0,1,1,1
+b,960,845,Data Center,Mission Objectives Cermak,1,0,2,l,NULL,0,1,1,1
+b,760,717,Engine Drill,Mission Objectives Cermak,R1,0,2,l,NULL,0,1,1,1
+b,761,718,Engine Drill,Mission Objectives Cermak,R2,0,2,l,NULL,0,1,1,1
+b,654,611,Extraction Marker,Mission Objectives PA,NULL,0,2,l,NULL,0,0,0,1
+b,490,451,Headquarters Building,Mission Objectives PA,1,0,2,l,NULL,0,1,1,1
+b,491,452,Headquarters Building,Mission Objectives PA,2,0,2,l,NULL,0,1,1,1
+b,972,857,Headquarters Building,Mission Objectives Cermak,1,0,2,l,NULL,0,1,1,1
+b,973,858,Headquarters Building,Mission Objectives Cermak,2,0,2,l,NULL,0,1,1,1
+b,485,446,Hyperpulse Generator,Mission Objectives PA,NULL,0,2,l,NULL,0,1,1,1
+b,974,859,Hyperpulse Generator,Mission Objectives Cermak,NULL,0,2,l,NULL,0,1,1,1
+b,639,595,Mobile Orbital Gun,Mission Objectives PA,NULL,0,2,l,NULL,0,1,1,1
+b,980,865,Mobile Orbital Gun,Mission Objectives Cermak,NULL,0,2,l,NULL,0,1,1,1
+b,506,467,Orbital Gun,Mission Objectives PA,NULL,0,2,l,NULL,0,1,1,1
+b,982,867,Orbital Gun,Mission Objectives Cermak,NULL,0,2,l,NULL,0,1,1,1
+b,734,691,Research Faciltiy,Mission Objectives Cermak,SW,0,2,l,NULL,0,1,1,1
+b,735,692,Research Faciltiy,Mission Objectives Cermak,NW,0,2,l,NULL,0,1,1,1
+b,756,713,Targeting Array,Mission Objectives Cermak,NULL,0,2,l,NULL,0,1,1,1
+b,1079,994,Drop Zone Marker A,MissionMaker,NULL,0,2,l,DropZone,0,0,0,1
+b,1080,995,Drop Zone Marker B,MissionMaker,NULL,0,2,l,DropZone,0,0,0,1
+b,731,492,Artillery Crate,Multiplayer Objectives PA,SE,0,2,l,Artillery Crate,0,1,1,1
+b,732,493,Artillery Crate,Multiplayer Objectives PA,SW,0,2,l,Artillery Crate,0,1,1,1
+b,1186,843,Artillery Crate,Multiplayer Objectives Cermak,SE,0,2,l,Artillery Crate,0,1,1,1
+b,1187,844,Artillery Crate,Multiplayer Objectives Cermak,SW,0,2,l,Artillery Crate,0,1,1,1
+b,730,230,Indestructible Command Station,Multiplayer Objectives PA,NULL,0,2,l,NULL,0,1,0,1
+b,1185,693,Indestructible Command Station,Multiplayer Objectives Cermak,NULL,0,2,l,NULL,0,1,0,1
+b,728,451,Indestructible Headquarters,Multiplayer Objectives PA,1,0,2,l,NULL,0,1,0,1
+b,729,452,Indestructible Headquarters,Multiplayer Objectives PA,2,0,2,l,NULL,0,1,0,1
+b,1183,857,Indestructible Headquarters,Multiplayer Objectives Cermak,1,0,2,l,NULL,0,1,0,1
+b,1184,858,Indestructible Headquarters,Multiplayer Objectives Cermak,2,0,2,l,NULL,0,1,0,1
+
+b,551,507,Large Office Building,Offices,NULL,0,2,l,NULL,0,1,1,1
+b,152,137,Modern Office Building,Offices,NW,0,2,l,NULL,0,1,1,1
+b,153,138,Modern Office Building,Offices,SE,0,2,l,NULL,0,1,1,1
+b,155,140,Modern Office Building,Offices,SW,0,2,l,NULL,0,1,1,1
+b,663,626,Office 1A,Offices,A1,0,2,l,NULL,0,1,1,1
+b,664,627,Office 1A,Offices,A2,0,2,l,NULL,0,1,1,1
+b,665,628,Office 1A,Offices,A3,0,2,l,NULL,0,1,1,1
+b,666,629,Office 1A,Offices,A4,0,2,l,NULL,0,1,1,1
+b,674,637,Office 1B,Offices,A1,0,2,l,NULL,0,1,1,1
+b,675,638,Office 1B,Offices,A2,0,2,l,NULL,0,1,1,1
+b,676,639,Office 1B,Offices,A3,0,2,l,NULL,0,1,1,1
+b,677,640,Office 1B,Offices,A4,0,2,l,NULL,0,1,1,1
+b,667,630,Office 2A,Offices,A1,0,2,l,NULL,0,1,1,1
+b,668,631,Office 2A,Offices,A2,0,2,l,NULL,0,1,1,1
+b,669,632,Office 2A,Offices,A3,0,2,l,NULL,0,1,1,1
+b,678,641,Office 2B,Offices,A1,0,2,l,NULL,0,1,1,1
+b,679,642,Office 2B,Offices,A2,0,2,l,NULL,0,1,1,1
+b,680,642,Office 2B,Offices,A3,0,2,l,NULL,0,1,1,1
+b,670,633,Office 3,Offices,A1,0,2,l,NULL,0,1,1,1
+b,671,634,Office 3,Offices,A2,0,2,l,NULL,0,1,1,1
+b,672,635,Office 3,Offices,A3,0,2,l,NULL,0,1,1,1
+b,673,636,Office 3,Offices,A4,0,2,l,NULL,0,1,1,1
+b,148,133,Small Business,Offices,NW,0,2,l,NULL,0,1,1,1
+b,149,134,Small Business,Offices,SE,0,2,l,NULL,0,1,1,1
+b,150,135,Small Business,Offices,NE,0,2,l,NULL,0,1,1,1
+b,151,136,Small Business,Offices,SW,0,2,l,NULL,0,1,1,1
+b,144,129,Small Office Building,Offices,NE,0,2,l,NULL,0,1,1,1
+b,145,130,Small Office Building,Offices,SW,0,2,l,NULL,0,1,1,1
+b,146,131,Small Office Building,Offices,SE,0,2,l,NULL,0,1,1,1
+
+b,26,141,Farmhouse,Residential PA,SSE,0,2,l,NULL,0,1,1,1
+b,301,238,Farmhouse,Residential PA,SE,0,2,l,NULL,0,1,1,1
+b,302,239,Farmhouse,Residential PA,SW,0,2,l,NULL,0,1,1,1
+b,634,590,House w/Animating Pool,Residential PA,SW,0,2,l,NULL,0,1,1,1
+b,635,591,House w/Animating Pool,Residential PA,NW,0,2,l,NULL,0,1,1,1
+b,636,592,House w/Animating Pool,Residential PA,NE,0,2,l,NULL,0,1,1,1
+b,637,593,House w/Animating Pool,Residential PA,SE,0,2,l,NULL,0,1,1,1
+b,351,341,House w/Pool,Residential PA,SW,0,2,l,NULL,0,1,1,1
+b,352,342,House w/Pool,Residential PA,NW,0,2,l,NULL,0,1,1,1
+b,353,343,House w/Pool,Residential PA,NE,0,2,l,NULL,0,1,1,1
+b,354,344,House w/Pool,Residential PA,SE,0,2,l,NULL,0,1,1,1
+b,542,498,Kurita-Style Home A,Residential PA,SE,0,2,l,NULL,0,1,1,1
+b,543,499,Kurita-Style Home A,Residential PA,SW,0,2,l,NULL,0,1,1,1
+b,544,500,Kurita-Style Home B,Residential PA,SE,0,2,l,NULL,0,1,1,1
+b,545,501,Kurita-Style Home B,Residential PA,SW,0,2,l,NULL,0,1,1,1
+b,546,502,Kurita-Style Home C,Residential PA,SE,0,2,l,NULL,0,1,1,1
+b,547,503,Kurita-Style Home C,Residential PA,SW,0,2,l,NULL,0,1,1,1
+b,548,504,Kurita-Style Home D,Residential PA,SE,0,2,l,NULL,0,1,1,1
+b,549,505,Kurita-Style Home D,Residential PA,SW,0,2,l,NULL,0,1,1,1
+b,987,872,Large Habitat,Residential Cermak,1,0,2,l,NULL,0,1,1,1
+b,988,873,Large Habitat,Residential Cermak,2,0,2,l,NULL,0,1,1,1
+b,989,874,Large Habitat,Residential Cermak,3,0,2,l,NULL,0,1,1,1
+b,990,875,Large Habitat,Residential Cermak,4,0,2,l,NULL,0,1,1,1
+b,24,32,Modern Farmhouse,Residential PA,SE,0,2,l,NULL,0,1,1,1
+b,77,62,Modern Farmhouse,Residential PA,SW,0,2,l,NULL,0,1,1,1
+b,297,234,Modern Farmhouse,Residential PA,SE,0,2,l,NULL,0,1,1,1
+b,298,235,Modern Farmhouse,Residential PA,SW,0,2,l,NULL,0,1,1,1
+b,742,699,Small Habitat,Residential Cermak,1,0,2,l,NULL,0,1,1,1
+b,743,700,Small Habitat,Residential Cermak,2,0,2,l,NULL,0,1,1,1
+b,744,701,Small Habitat,Residential Cermak,3,0,2,l,NULL,0,1,1,1
+b,745,702,Small Habitat,Residential Cermak,4,0,2,l,NULL,0,1,1,1
+b,25,33,Stylish Farmhouse,Residential PA,SSW,0,2,l,NULL,0,1,1,1
+b,78,63,Stylish Farmhouse,Residential PA,SE,0,2,l,NULL,0,1,1,1
+b,299,236,Stylish Farmhouse,Residential PA,SE,0,2,l,NULL,0,1,1,1
+b,300,237,Stylish Farmhouse,Residential PA,SW,0,2,l,NULL,0,1,1,1
+b,390,359,Two-Flat Home,Residential PA,SW,0,2,l,NULL,0,1,1,1
+b,391,360,Two-Flat Home,Residential PA,SE,0,2,l,NULL,0,1,1,1
+b,392,361,Two-Flat Home,Residential PA,NE,0,2,l,NULL,0,1,1,1
+b,393,362,Two-Flat Home,Residential PA,NW,0,2,l,NULL,0,1,1,1
+
+b,994,879,Boulder A,Rocks,1,0,2,a,NULL,0,0,0,1
+b,995,880,Boulder A,Rocks,2,0,2,a,NULL,0,0,0,1
+b,996,881,Boulder A,Rocks,3,0,2,a,NULL,0,0,0,1
+b,997,882,Boulder A,Rocks,4,0,2,a,NULL,0,0,0,1
+b,998,883,Boulder B,Rocks,1,0,2,a,NULL,0,0,0,1
+b,999,884,Boulder B,Rocks,2,0,2,a,NULL,0,0,0,1
+b,1000,885,Boulder B,Rocks,3,0,2,a,NULL,0,0,0,1
+b,1001,886,Boulder B,Rocks,4,0,2,a,NULL,0,0,0,1
+b,1002,887,Boulder C,Rocks,1,0,2,a,NULL,0,0,0,1
+b,1003,888,Boulder C,Rocks,2,0,2,a,NULL,0,0,0,1
+b,1004,889,Boulder C,Rocks,3,0,2,a,NULL,0,0,0,1
+b,1005,890,Boulder C,Rocks,4,0,2,a,NULL,0,0,0,1
+b,1015,900,Rock A,Rocks,1,0,2,a,NULL,0,0,0,1
+b,1016,901,Rock B,Rocks,2,0,2,a,NULL,0,0,0,1
+b,1017,902,Rock C,Rocks,3,0,2,a,NULL,0,0,0,1
+b,1019,904,Rock Cluster ,Rocks,1,0,2,a,NULL,0,0,0,1
+b,1020,905,Rock Cluster ,Rocks,2,0,2,a,NULL,0,0,0,1
+b,1021,906,Rock Cluster ,Rocks,3,0,2,a,NULL,0,0,0,1
+b,1022,907,Rock Cluster ,Rocks,4,0,2,a,NULL,0,0,0,1
+b,1018,903,Rock D,Rocks,4,0,2,a,NULL,0,0,0,1
+b,1023,908,Rock Pile ,Rocks,1,0,2,a,NULL,0,0,0,1
+b,1024,909,Rock Pile ,Rocks,2,0,2,a,NULL,0,0,0,1
+b,1025,910,Rock Pile ,Rocks,3,0,2,a,NULL,0,0,0,1
+b,1026,911,Rock Pile ,Rocks,4,0,2,a,NULL,0,0,0,1
+b,1011,896,Rocks ,Rocks,1,0,2,a,NULL,0,0,0,1
+b,1012,897,Rocks ,Rocks,2,0,2,a,NULL,0,0,0,1
+b,1013,898,Rocks ,Rocks,3,0,2,a,NULL,0,0,0,1
+b,1014,899,Rocks ,Rocks,4,0,2,a,NULL,0,0,0,1
+
+b,746,703,Large Ruin,Ruins,1,0,2,a,NULL,0,1,0,1
+b,747,704,Large Ruin,Ruins,2,0,2,a,NULL,0,1,0,1
+b,828,785,Large Ruin,Ruins,3,0,2,a,NULL,0,1,0,1
+b,829,786,Large Ruin,Ruins,4,0,2,a,NULL,0,1,0,1
+b,822,779,Large Skeletal,Ruins,1,0,2,a,NULL,0,1,0,1
+b,823,780,Large Skeletal,Ruins,2,0,2,a,NULL,0,1,0,1
+b,824,781,Large Skeletal,Ruins,3,0,2,a,NULL,0,1,0,1
+b,825,782,Large Skeletal,Ruins,4,0,2,a,NULL,0,1,0,1
+b,748,705,Medium Ruin,Ruins,1,0,2,a,NULL,0,1,0,1
+b,749,706,Medium Ruin,Ruins,2,0,2,a,NULL,0,1,0,1
+b,750,707,Small Ruin,Ruins,1,0,2,a,NULL,0,1,0,1
+b,751,708,Small Ruin,Ruins,2,0,2,a,NULL,0,1,0,1
+b,832,789,Small Ruin,Ruins,3,0,2,a,NULL,0,1,0,1
+b,833,790,Small Ruin,Ruins,4,0,2,a,NULL,0,1,0,1
+b,818,775,Small Skeletal,Ruins,1,0,2,a,NULL,0,1,0,1
+b,819,776,Small Skeletal,Ruins,2,0,2,a,NULL,0,1,0,1
+b,820,777,Small Skeletal,Ruins,3,0,2,a,NULL,0,1,0,1
+b,821,778,Small Skeletal,Ruins,4,0,2,a,NULL,0,1,0,1
+
+b,22,30,Barn,Rural,SE,0,2,l,NULL,0,1,1,1
+b,71,56,Barn,Rural,SW,0,2,l,NULL,0,1,1,1
+b,72,57,Barn,Rural,NE,0,2,l,NULL,0,1,1,1
+b,73,58,Barn,Rural,NW,0,2,l,NULL,0,1,1,1
+b,289,226,Barn,Rural,SE,0,2,l,NULL,0,1,1,1
+b,290,227,Barn,Rural,SW,0,2,l,NULL,0,1,1,1
+b,291,228,Barn,Rural,NW,0,2,l,NULL,0,1,1,1
+b,292,229,Barn,Rural,NE,0,2,l,NULL,0,1,1,1
+b,27,35,Grain Storage,Rural,SW,0,2,l,NULL,0,1,1,1
+b,79,64,Grain Storage,Rural,SE,0,2,l,NULL,0,1,1,1
+b,21,29,Large Barn,Rural,SW,0,2,l,NULL,0,1,1,1
+b,70,55,Large Barn,Rural,SSE,0,2,l,NULL,0,1,1,1
+b,287,224,Large Barn,Rural,SE,0,2,l,NULL,0,1,1,1
+b,288,225,Large Barn,Rural,SW,0,2,l,NULL,0,1,1,1
+b,19,25,Long Barn,Rural,NE,0,2,l,NULL,0,1,1,1
+b,283,220,Long Barn,Rural,SE,0,2,l,NULL,0,1,1,1
+b,284,221,Long Barn,Rural,SW,0,2,l,NULL,0,1,1,1
+b,20,28,Small Barn,Rural,NW,0,2,l,NULL,0,1,1,1
+b,69,54,Small Barn,Rural,SSW,0,2,l,NULL,0,1,1,1
+b,285,222,Small Barn,Rural,SE,0,2,l,NULL,0,1,1,1
+b,286,223,Small Barn,Rural,SW,0,2,l,NULL,0,1,1,1
+b,34,42,Twin Silos,Rural,SW,0,2,l,NULL,0,1,1,1
+b,129,114,Twin Silos,Rural,NE,0,2,l,NULL,0,1,1,1
+
+b,496,457,Component Warehouse,Salvage PA,SE,0,2,l,NULL,0,1,1,1
+b,497,458,Component Warehouse,Salvage PA,SW,0,2,l,NULL,0,1,1,1
+b,770,727,Component Vault,Salvage Cermak,SW,0,2,l,NULL,0,1,1,1
+b,870,827,Component Warehouse,Salvage Cermak,SE,0,2,l,NULL,0,1,1,1
+b,871,828,Component Warehouse,Salvage Cermak,SW,0,2,l,NULL,0,1,1,1
+b,536,492,Container Stack,Salvage PA,SE,0,2,l,NULL,0,1,1,1
+b,537,493,Container Stack,Salvage PA,SW,0,2,l,NULL,0,1,1,1
+b,958,843,Container Stack,Salvage Cermak,SE,0,2,l,NULL,0,1,1,1
+b,959,844,Container Stack,Salvage Cermak,SW,0,2,l,NULL,0,1,1,1
+b,93,78,Resource Bunker (Empty),Salvage PA,NW,0,2,l,NULL,0,1,1,1
+b,94,79,Resource Bunker (Empty),Salvage PA,SW,0,2,l,NULL,0,1,1,1
+b,95,80,Resource Bunker (Empty),Salvage PA,SE,0,2,l,NULL,0,1,1,1
+b,96,81,Resource Bunker (Empty),Salvage PA,NE,0,2,l,NULL,0,1,1,1
+b,97,82,Resource Bunker (Full),Salvage PA,NW,0,2,l,NULL,0,1,1,1
+b,98,83,Resource Bunker (Full),Salvage PA,SW,0,2,l,NULL,0,1,1,1
+b,99,84,Resource Bunker (Full),Salvage PA,SE,0,2,l,NULL,0,1,1,1
+b,100,85,Resource Bunker (Full),Salvage PA,NE,0,2,l,NULL,0,1,1,1
+b,618,574,Resource Warehouse,Salvage PA,NE,0,2,l,NULL,0,1,1,1
+b,619,575,Resource Warehouse,Salvage PA,SE,0,2,l,NULL,0,1,1,1
+b,620,576,Resource Warehouse,Salvage PA,SW,0,2,l,NULL,0,1,1,1
+b,621,577,Resource Warehouse,Salvage PA,NW,0,2,l,NULL,0,1,1,1
+
+b,408,378,Cannon Turret,Turrets PA,NULL,0,2,l,Turret,0,0,0,1
+b,410,380,Laser Turret,Turrets PA,NULL,0,2,l,Turret,0,0,0,1
+b,409,379,Missile Turret,Turrets PA,NULL,0,2,l,Turret,0,0,0,1
+b,754,711,Artillery Turret,Turrets Cermak,1,0,2,l,Turret,0,0,0,1
+b,1037,948,Pop-up Cannon Turret--Ash,Turrets Cermak,NULL,0,2,l,Turret,0,0,0,0
+b,514,472,Pop-up Cannon Turret--Dirt,Turrets PA,NULL,0,2,l,Turret,0,0,0,0
+b,511,469,Pop-up Cannon Turret--Grass,Turrets PA,NULL,0,2,l,Turret,0,0,0,0
+b,1034,945,Pop-up Cannon Turret--Sand,Turrets Cermak,NULL,0,2,l,Turret,0,0,0,0
+b,1036,947,Pop-up Laser Turret--Ash,Turrets Cermak,NULL,0,2,l,Turret,0,0,0,0
+b,513,471,Pop-up Laser Turret--Dirt,Turrets PA,NULL,0,2,l,Turret,0,0,0,0
+b,510,468,Pop-up Laser Turret--Grass,Turrets PA,NULL,0,2,l,Turret,0,0,0,0
+b,1033,944,Pop-up Laser Turret--Sand,Turrets Cermak,NULL,0,2,l,Turret,0,0,0,0
+b,1038,949,Pop-up Missile Turret--Ash,Turrets Cermak,NULL,0,2,l,Turret,0,0,0,0
+b,515,473,Pop-up Missile Turret--Dirt,Turrets PA,NULL,0,2,l,Turret,0,0,0,0
+b,512,470,Pop-up Missile Turret--Grass,Turrets PA,NULL,0,2,l,Turret,0,0,0,0
+b,1035,946,Pop-up Missile Turret--Sand,Turrets Cermak,NULL,0,2,l,Turret,0,0,0,0
+b,469,431,Turret Control,Turrets PA,NULL,0,2,l,Turret Control,0,1,1,1
+b,869,826,Turret Control,Turrets Cermak,NULL,0,2,l,Turret Control,0,1,1,1
+b,992,877,Turret Control (Heavy),Turrets Cermak,1,0,2,l,Turret Control,0,1,1,1
+b,1006,891,Turret Control (Heavy),Turrets Cermak,2,0,2,l,Turret Control,0,1,1,1
+b,1007,892,Turret Control (Heavy),Turrets Cermak,3,0,2,l,Turret Control,0,1,1,1
+b,1008,893,Turret Control (Heavy),Turrets Cermak,4,0,2,l,Turret Control,0,1,1,1
+
+b,623,579,City Hall,Urban,NULL,0,2,l,NULL,0,1,1,1
+b,631,587,Fastfood,Urban,SE,0,2,l,NULL,0,1,1,1
+b,632,588,Fastfood,Urban,SW,0,2,l,NULL,0,1,1,1
+b,523,479,Meeting Hall,Urban,SW,0,2,l,NULL,0,1,1,1
+b,524,480,Meeting Hall,Urban,SE,0,2,l,NULL,0,1,1,1
+b,386,355,Parking Garage,Urban,SE,0,2,l,NULL,0,1,1,1
+b,387,356,Parking Garage,Urban,SW,0,2,l,NULL,0,1,1,1
+b,29,37,Pumping Station,Urban,NW,0,2,l,NULL,0,1,1,1
+b,339,333,Pumping Station,Urban,SW,0,2,l,NULL,0,1,1,1
+b,340,334,Pumping Station,Urban,NW,0,2,l,NULL,0,1,1,1
+b,341,335,Pumping Station,Urban,NE,0,2,l,NULL,0,1,1,1
+b,342,336,Pumping Station,Urban,SE,0,2,l,NULL,0,1,1,1
+b,106,91,Purification Plant,Urban,SE,0,2,l,NULL,0,1,1,1
+b,107,92,Purification Plant,Urban,NW,0,2,l,NULL,0,1,1,1
+b,108,93,Purification Plant,Urban,NE,0,2,l,NULL,0,1,1,1
+b,109,94,Purification Plant,Urban,NNW,0,2,l,NULL,0,1,1,1
+b,343,337,Purification Plant,Urban,SW,0,2,l,NULL,0,1,1,1
+b,344,338,Purification Plant,Urban,NW,0,2,l,NULL,0,1,1,1
+b,345,339,Purification Plant,Urban,NE,0,2,l,NULL,0,1,1,1
+b,585,541,Residential Train Station,Urban,SE,0,2,l,NULL,0,1,1,1
+b,586,542,Residential Train Station,Urban,SW,0,2,l,NULL,0,1,1,1
+b,587,543,Residential Train Station,Urban,NW,0,2,l,NULL,0,1,1,1
+b,588,544,Residential Train Station,Urban,NE,0,2,l,NULL,0,1,1,1
+b,565,521,Stripmall,Urban,SE,0,2,l,NULL,0,1,1,1
+b,566,522,Stripmall,Urban,SW,0,2,l,NULL,0,1,1,1
+b,567,523,Stripmall,Urban,SE,0,2,l,NULL,0,1,1,1
+b,568,524,Stripmall,Urban,SW,0,2,l,NULL,0,1,1,1
+b,569,525,Stripmall,Urban,SE,0,2,l,NULL,0,1,1,1
+b,570,526,Stripmall,Urban,SW,0,2,l,NULL,0,1,1,1
+b,33,41,Transformer Station,Urban,SE,0,2,l,NULL,0,1,1,1
+b,126,111,Transformer Station,Urban,NE,0,2,l,NULL,0,1,1,1
+b,127,112,Transformer Station,Urban,NW,0,2,l,NULL,0,1,1,1
+b,128,113,Transformer Station,Urban,SW,0,2,l,NULL,0,1,1,1
+b,589,545,Urban Train Station,Urban,SE,0,2,l,NULL,0,1,1,1
+b,590,546,Urban Train Station,Urban,SW,0,2,l,NULL,0,1,1,1
+b,591,547,Urban Train Station,Urban,NW,0,2,l,NULL,0,1,1,1
+b,592,548,Urban Train Station,Urban,NE,0,2,l,NULL,0,1,1,1
+b,137,122,Valve Station,Urban,SE,0,2,l,NULL,0,1,1,1
+b,138,123,Valve Station,Urban,SW,0,2,l,NULL,0,1,1,1
+b,363,304,Waste Processor,Urban,NE,0,2,l,NULL,0,1,1,1
+b,364,305,Waste Processor,Urban,SE,0,2,l,NULL,0,1,1,1
+b,365,306,Waste Processor,Urban,SW,0,2,l,NULL,0,1,1,1
+b,366,307,Waste Processor,Urban,NW,0,2,l,NULL,0,1,1,1
+
+
+b,445,396,Car (Bulky Hover),Vehicles: Civilian Cars,NULL,0,2,1,Vehicle,31800,1,1,0
+b,434,396,Car (Dragster),Vehicles: Civilian Cars,NULL,0,2,l,Vehicle,30700,1,1,0
+b,437,396,Car (Sleek Hover),Vehicles: Civilian Cars,NULL,0,2,l,Vehicle,31000,1,1,0
+b,441,396,Car (Mini),Vehicles: Civilian Cars,NULL,0,2,l,Vehicle,31400,1,1,0
+b,444,396,Car (Pickup),Vehicles: Civilian Cars,NULL,0,2,1,Vehicle,31700,1,1,0
+b,442,396,Car (Sedan),Vehicles: Civilian Cars,NULL,0,2,l,Vehicle,31500,1,1,0
+b,443,396,Sports Car (Coupe),Vehicles: Civilian Cars,NULL,0,2,l,Vehicle,31600,1,1,0
+b,436,396,Sports Car (Hot Rod),Vehicles: Civilian Cars,NULL,0,2,l,Vehicle,30900,1,1,0
+b,440,396,Sports Car (Hover),Vehicles: Civilian Cars,NULL,0,2,l,Vehicle,31300,1,1,0
+b,447,396,Sports Car (Hover Tank),Vehicles: Civilian Cars,NULL,0,2,l,Vehicle,32000,1,1,0
+b,435,396,Sports Car (Touring Car),Vehicles: Civilian Cars,NULL,0,2,l,Vehicle,30800,1,1,0
+
+b,411,396,Farm Truck,Vehicles: Civilian Miscellaneous,NULL,0,2,I,Vehicle,30600,0,1,0
+b,438,408,Hover Limo,Vehicles: Civilian Miscellaneous,NULL,0,2,l,Vehicle,31100,1,1,0
+b,415,396,Light Transport,Vehicles: Civilian Miscellaneous,NULL,0,2,I,Vehicle,22700,0,1,0
+b,439,396,Limo,Vehicles: Civilian Miscellaneous,NULL,0,2,1,Vehicle,31200,1,1,0
+b,423,396,Semi,Vehicles: Civilian Miscellaneous,NULL,0,2,I,Vehicle,30500,0,1,0
+
+
+b,906,939,Alacorn,Vehicles: Large Tanks,NULL,0,2,l,Vehicle,33700,0,1,0
+b,405,375,Bulldog,Vehicles: Large Tanks,NULL,0,2,l,Vehicle,20800,0,1,0
+b,474,436,Condor,Vehicles: Large Tanks,NULL,0,2,l,Vehicle,22100,0,1,0
+b,416,386,LRM Carrier,Vehicles: Large Tanks,NULL,0,2,l,Vehicle,21000,0,1,0
+b,905,938,Manticore,Vehicles: Large Tanks,NULL,0,2,l,Vehicle,33500,0,1,0
+b,907,940,Pilum,Vehicles: Large Tanks,NULL,0,2,l,Vehicle,33600,0,1,0
+b,903,936,Regulator,Vehicles: Large Tanks,NULL,0,2,l,Vehicle,33400,0,1,0
+b,424,394,Rommel,Vehicles: Large Tanks,NULL,0,2,l,Vehicle,20100,0,1,0
+b,470,432,Shrek,Vehicles: Large Tanks,NULL,0,2,l,Vehicle,21300,0,1,0
+b,473,435,Von Luckner,Vehicles: Large Tanks,NULL,0,2,l,Vehicle,22000,0,1,0
+
+b,504,465,Ambulance,Vehicles: Miscellaneous,NULL,0,2,l,Vehicle,32400,1,1,0
+b,411,396,Armed Farm Truck,Vehicles: Miscellaneous,NULL,0,2,I,Vehicle,30601,0,1,0
+b,423,396,Armed Semi,Vehicles: Miscellaneous,NULL,0,2,I,Vehicle,30501,0,1,0
+b,422,393,Flat Bed,Vehicles: Miscellaneous,NULL,0,2,l,Vehicle,30400,1,1,0
+b,406,376,Fuel Truck,Vehicles: Miscellaneous,NULL,0,2,l,Vehicle,20300,1,1,0
+b,475,437,Ordnance Truck,Vehicles: Miscellaneous,NULL,0,2,l,Vehicle,22200,1,1,0
+b,477,439,Salvage Rig,Vehicles: Miscellaneous,NULL,0,2,l,Vehicle,22400,1,1,0
+b,476,396,Salvage Truck,Vehicles: Miscellaneous,NULL,0,2,1,Vehicle,32100,1,1,0
+b,426,396,Swiftwind,Vehicles: Miscellaneous,NULL,0,2,l,Vehicle,20000,1,1,0
+
+b,420,396,Aerospace Spotter,Vehicles: Military,NULL,0,2,1,Vehicle,21600,1,1,0
+b,908,396,Ammo Truck,Vehicles: Military,NULL,0,2,1,Vehicle,33800,1,1,0
+b,404,396,Artillery Loader,Vehicles: Military,NULL,0,2,1,Vehicle,21200,1,1,0
+b,400,396,Elemental,Vehicles: Military,NULL,0,2,1,Vehicle,215102,1,1,0
+b,419,396,Elemental Carrier,Vehicles: Military,NULL,0,2,1,Vehicle,20400,1,1,0
+b,609,396,Mine Layer,Vehicles: Military,NULL,0,2,1,Vehicle,22900,1,1,0
+b,505,396,Mine Sweeper,Vehicles: Military,NULL,0,2,1,Vehicle,22800,1,1,0
+b,403,373,Mobile Artillery (Inactive),Vehicles: Military,NULL,0,2,l,Vehicle,21100,1,1,0
+b,414,384,Mobile HQ,Vehicles: Military,NULL,0,2,l,Vehicle,20200,1,1,0
+b,479,396,Refit Truck,Vehicles: Military,NULL,0,2,1,Vehicle,32300,1,1,0
+b,417,396,Towed Turret,Vehicles: Military,NULL,0,2,1,Vehicle,21500,1,1,0
+
+b,402,372,APC,Vehicles: Small Tanks,NULL,0,2,l,Vehicle,20600,0,1,0
+b,415,385,Armored Car,Vehicles: Small Tanks,NULL,0,2,l,Vehicle,22701,0,1,0
+b,904,937,Centipede,Vehicles: Small Tanks,NULL,0,2,l,Vehicle,33300,0,1,0
+b,412,382,Harasser,Vehicles: Small Tanks,NULL,0,2,l,Vehicle,20500,0,1,0
+b,472,434,J. Edgar,Vehicles: Small Tanks,NULL,0,2,l,Vehicle,21900,0,1,0
+b,471,433,Pegasus,Vehicles: Small Tanks,NULL,0,2,l,Vehicle,21800,0,1,0
+b,503,464,Saracen,Vehicles: Small Tanks,NULL,0,2,l,Vehicle,21400,0,1,0
+b,446,416,Savannah Master,Vehicles: Small Tanks,NULL,0,2,l,Vehicle,31900,0,1,0
+b,425,395,SRM Carrier,Vehicles: Small Tanks,NULL,0,2,l,Vehicle,20900,0,1,0
+b,43,49,Striker,Vehicles: Small Tanks,NULL,0,2,l,Vehicle,21700,0,1,0
+
+b,433,396,Train Engine,Vehicles: Trains,NULL,0,2,1,Vehicle,32500,1,1,0
+b,427,396,Train Car(Box Car One),Vehicles: Trains,NULL,0,2,1,Vehicle,32600,1,1,0
+b,432,396,Train Car(Box Car Two),Vehicles: Trains,NULL,0,2,1,Vehicle,33100,1,1,0
+b,429,396,Train Car(Containers),Vehicles: Trains,NULL,0,2,1,Vehicle,32800,1,1,0
+b,428,396,Train Car(Flatbed One),Vehicles: Trains,NULL,0,2,1,Vehicle,32700,1,1,0
+b,431,396,Train Car(Flatbed Two),Vehicles: Trains,NULL,0,2,1,Vehicle,33000,1,1,0
+b,430,396,Train Car(Gas Tank Car),Vehicles: Trains,NULL,0,2,1,Vehicle,32900,1,1,0

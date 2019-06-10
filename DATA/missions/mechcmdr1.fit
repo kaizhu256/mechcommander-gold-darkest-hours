@@ -1,0 +1,949 @@
+FITini
+
+[HeapInfo]
+ul heapSize = 32768
+
+[Movies]
+ul numMovies = 5
+
+st movie0 = "logos1"
+st movie1 = "opening"
+st movie2 = "credits"
+st movie3 = "closing"
+st movie4 = "credits"
+			//  Campaign designer: RizZen			Creation date: 03/31/2018
+			//  Version No.: v4.0
+			//  MCG - Darkest Hours - Original Campaign Merge:
+			//  Story-Overhaul, rewrote Exodus campaign 90%
+			//	Original Campaign	  30 Missions
+			//    + X-Ray User Campaign	+ 24 Missions
+			//    + Xenocide User Campaign  + 19 Missions
+			//    + Exodus User Campaign	+ 16 Missions
+			//	____________________________________
+			//    = Darkest Hours Original  = 89 Missions to play!!!
+[Scenarios]
+ul numScenarios = 89
+ul LastScenario = 88
+
+
+//					Operation I - 20 Missions
+
+st Scenario0 = "RizZ0100"			// Original 01/01 - Op1 Start			Purchase00
+st Scenario1 = "RizZ0102"			// Original 01/02					Purchase01
+st Scenario2 = "RizZ0103"			// Original 01/03					Purchase02	*Mystique* (3)
+st Scenario3 = "RizZ0104"			// Original 01/04					Purchase03
+st Scenario4 = "RizZ0105"			// Original 01/05					Purchase04
+st Scenario5 = "RizZ0106"			// Original 01/06					Purchase05
+st Scenario6 = "dbbe14f9_692d_447e_a8fa_fc7d365ed15d"	// X-Ray 01/01					Purchase06-
+st Scenario7 = "ecabb275_68d7_49b1_98c1_b9f3d1fe9749"	// X-Ray 01/02					Purchase07-
+st Scenario8 = "66746ba0_5ef2_11d5_b342_c8cb974d2d7b"	// X-Ray 01/03					Purchase08-
+st Scenario9 = "b65589e0_c0c0_11d4_81aa_043804c10000"		// Xenocide 01/01			Purchase09	*Mantis* (10)
+st Scenario10 = "08927441_9c66_11d4_81aa_144104c10000"		// Xenocide 01/02			Purchase10
+st Scenario11 = "08927440_9c66_11d4_81aa_144104c10000"		// Xenocide 01/03			Purchase11
+st Scenario12 = "ac8c0960_4c9e_11d5_b342_db12d18613d0"	// X-Ray 01/04					Purchase12-
+st Scenario13 = "c9ec7eeb_5f57_4088_bc65_728b7cc55039"	// X-Ray 01/05					Purchase13-
+st Scenario14 = "9946fac0_80c7_11d4_9e11_00409500128a"			// Exodus 01/01			Purchase14-	*Rebel* (15)
+st Scenario15 = "0d3d4dc0_166f_11d5_834c_d1085ce33e23"			// Exodus 01/02			Purchase15-
+st Scenario16 = "0fe4acc0_9c6d_11d4_81aa_144104c10000"		// Xenocide 01/04			Purchase16
+st Scenario17 = "a072c581_1579_11d5_834c_be80434fd920"			// Exodus 01/03			Purchase17-
+st Scenario18 = "b2dcda20_2948_11d5_b342_f00acd37e23c"	// X-Ray 01/06					Purchase18-
+st Scenario19 = "a072c582_1579_11d5_834c_be80434fd920"			// Exodus 01/04 - Op1 Final	Purchase19-	All warrior bugs in Operation I solved!
+
+//					Operation II - 19 missions
+
+st Scenario20 = "RizZ0201"			// Original 02/01 - Op2 Start				Purchase20	*Falcon* (21)
+st Scenario21 = "RizZ0202"			// Original 02/02					Purchase21
+st Scenario22 = "RizZ0203"			// Original 02/03					Purchase22
+st Scenario23 = "RizZ0204"			// Original 02/04					Purchase23
+st Scenario24 = "RizZ0205"			// Original 02/05					Purchase24
+st Scenario25 = "RizZ0206"			// Original 02/06					Purchase25
+st Scenario26 = "2638d320_b108_11d4_81aa_943804c10000"		// Xenocide 02/01			Purchase26
+st Scenario27 = "2638d321_b108_11d4_81aa_943804c10000"		// Xenocide 02/02			Purchase27
+st Scenario28 = "85fad7cd_5397_4169_916b_e9444d3cdf25"	// X-Ray 02/01					Purchase28-
+st Scenario29 = "6d9308f5_7d78_40b8_a129_30e632a05c9a"	// X-Ray 02/02					Purchase29-
+st Scenario30 = "834aeda0_3b3c_11d5_bb35_e83abad17f10"		// Xenocide 02/03			Purchase30
+st Scenario31 = "9946fac2_80c7_11d4_9e11_00409500128a"			// Exodus 02/01			Purchase31-
+st Scenario32 = "a072c583_1579_11d5_834c_be80434fd920"			// Exodus 02/02			Purchase32-
+st Scenario33 = "a072c584_1579_11d5_834c_be80434fd920"			// Exodus 02/03			Purchase33-
+st Scenario34 = "2638d322_b108_11d4_81aa_943804c10000"		// Xenocide 02/04			Purchase37
+st Scenario35 = "8d7e8221_5cd7_11d5_834c_fc8243b4fa20"	// X-Ray 02/03					Purchase38-
+st Scenario36 = "6c8f0b6e_4e68_4851_9574_7199d22de66e"	// X-Ray 02/04					Purchase39-	*Scarab* (37)
+st Scenario37 = "94ddd483_8028_11d4_9e11_00409500128a"			// Exodus 02/04			Purchase40-
+st Scenario38 = "2638d323_b108_11d4_81aa_943804c10000"		// Xenocide 02/05 - Op2 Final		Purchase41	All warrior bugs in Operation II solved!
+
+//					Operation III - 16 Missions
+
+st Scenario39 = "RizZ0301"			// Original 03/01 - Op3 Start				Purchase42
+st Scenario40 = "RizZ0302"			// Original 03/02					Purchase43
+st Scenario41 = "RizZ0303"			// Original 03/03					Purchase44
+st Scenario42 = "RizZ0304"			// Original 03/04					Purchase45
+st Scenario43 = "RizZ0305"			// Original 03/05					Purchase46
+st Scenario44 = "RizZ0306"			// Original 03/06					Purchase47
+st Scenario45 = "2638d324_b108_11d4_81aa_943804c10000"		// Xenocide 03/01			Purchase48	*Thunder* (46)
+st Scenario46 = "e58139c2_5b36_11d4_8cbc_0080ad7423dd"	// X-Ray 03/01					Purchase49-
+st Scenario47 = "81a2fe91_ccb7_4985_8c97_3e9dcef9d2f7"	// X-Ray 03/02					Purchase50-
+st Scenario48 = "ae160e40_6d2b_11d5_b342_9b660c8eb532"	// X-Ray 03/03					Purchase51-
+st Scenario49 = "9946fac5_80c7_11d4_9e11_00409500128a"			// Exodus 03/01			Purchase52-
+st Scenario50 = "17c9b3e0_b103_11d4_81aa_943804c10000"		// Xenocide 03/02			Purchase53
+st Scenario51 = "314a4a60_b42c_11d4_81aa_a43604c10000"		// Xenocide 03/03			Purchase54
+st Scenario52 = "2638d326_b108_11d4_81aa_943804c10000"		// Xenocide 03/04			Purchase55
+st Scenario53 = "ef908702_7976_4241_b5c0_6063149ff5ce"	// X-Ray 03/04					Purchase56-	*Dragon* (54)
+st Scenario54 = "9946fac6_80c7_11d4_9e11_00409500128a"			// Exodus 03/02 - Op3 Final	Purchase57-	All warrior bugs in Operation III solved!
+
+//					Operation IV - 18 Missions
+
+st Scenario55 = "RizZ0401"			// Original 04/01 - Op4 Start				Purchase58	*magic*
+st Scenario56 = "RizZ0402"			// Original 04/02					Purchase59
+st Scenario57 = "RizZ0403"			// Original 04/03					Purchase60
+st Scenario58 = "RizZ0404"			// Original 04/04					Purchase61
+st Scenario59 = "RizZ0405"			// Original 04/05					Purchase62
+st Scenario60 = "RizZ0406"			// Original 04/06					Purchase63
+st Scenario61 = "314a4a63_b42c_11d4_81aa_a43604c10000"		// Xenocide 04/01			Purchase64
+st Scenario62 = "c8ad2060_bc03_11d4_81aa_243804c10000"		// Xenocide 04/02			Purchase65
+st Scenario63 = "62bcbcb1_cd45_479d_8cc4_87415fcec1be"	// X-Ray 04/01					Purchase66-	*Burnout* 
+st Scenario64 = "8d7e8224_5cd7_11d5_834c_fc8243b4fa20"	// X-Ray 04/02					Purchase67-
+st Scenario65 = "ef8f0600_5e9a_11d5_9bc5_953cb0b6e42b"	// X-Ray 04/03					Purchase68-	*Hitman*
+st Scenario66 = "314a4a61_b42c_11d4_81aa_a43604c10000"		// Xenocide 04/03			Purchase69
+st Scenario67 = "9946fac8_80c7_11d4_9e11_00409500128a"			// Exodus 04/01			Purchase70-
+st Scenario68 = "c1b86520_803b_11d4_834c_b8183407fa2b"			// Exodus 04/02			Purchase71-
+st Scenario69 = "84370b20_5542_11d5_97d1_108466c1252c"	// X-Ray 04/04					Purchase72-	*Countess*
+st Scenario70 = "89e7a600_089b_11d4_971b_340f19c10000"	// X-Ray 04/05					Purchase73-	*Outlaw*
+st Scenario71 = "f7d56d09_adb9_4e04_8615_72a5cfc24547"	// X-Ray 04/06					Purchase74-	*Blaze*
+st Scenario72 = "424ef0e0_bbed_11d4_81aa_243804c10000"		// Xenocide 04/04 - Op4 Final		Purchase75	All warrior bugs solved in Operation IV!
+
+//					Operation V - 16 Missions
+
+st Scenario73 = "RizZ0501"			// Original 05/01 - Op5 Start				Purchase76	No more purchase and warrior bugs in Op5!
+st Scenario74 = "RizZ0502"			// Original 05/02					Purchase77
+st Scenario75 = "RizZ0503"			// Original 05/03					Purchase78
+st Scenario76 = "RizZ0504"			// Original 05/04					Purchase79
+st Scenario77 = "RizZ0505"			// Original 05/05					Purchase80
+st Scenario78 = "fef16ec0_708e_11d5_834c_ee5b5a65e320"			// Exodus 05/01			Purchase81-
+st Scenario79 = "9946fac9_80c7_11d4_9e11_00409500128a"			// Exodus 05/02			Purchase82-
+st Scenario80 = "8d7e8220_5cd7_11d5_834c_fc8243b4fa20"	// X-Ray 05/01					Purchase83-
+st Scenario81 = "116d3600_712b_11d5_b342_8ae8c9b1e62b"	// X-Ray 05/02					Purchase84-
+st Scenario82 = "e54d1527_acc3_43db_9396_e99b6c3077f6"	// X-Ray 05/03					Purchase85-
+st Scenario83 = "584d8120_a79f_11d4_81aa_842a04c10000"		// Xenocide 05/01			Purchase86
+st Scenario84 = "c1b86522_803b_11d4_834c_b8183407fa2b"			// Exodus 05/03			Purchase87-
+st Scenario85 = "48640be0_bcac_11d4_81aa_043804c10000"		// Xenocide 05/02			Purchase88	*Firestorm*
+st Scenario86 = "cf31d960_322f_11d5_b342_e2971f4ee53b"	// X-Ray 05/04					Purchase89-
+st Scenario87 = "9946faca_80c7_11d4_9e11_00409500128a"			// Exodus 05/04			Purchase90-
+st Scenario88 = "RizZ0506"			// Original 05/06 - Op5 Final				Purchase91 coming soon
+
+// Coming soon: xx-sxx-txx xxScenario89xx = "471b94a0_547e_11d5_bd33_00a0cc360eca" - X-Ray - remastered
+
+
+[OpInfo]
+l Scenario0Operation = 1
+l Scenario0Mission = 1
+l Scenario1Operation = 1
+l Scenario1Mission = 2
+l Scenario2Operation = 1
+l Scenario2Mission = 3
+l Scenario3Operation = 1
+l Scenario3Mission = 4
+l Scenario4Operation = 1
+l Scenario4Mission = 5
+l Scenario5Operation = 1
+l Scenario5Mission = 6
+l Scenario6Operation = 1
+l Scenario6Mission = 7
+l Scenario7Operation = 1
+l Scenario7Mission = 8
+l Scenario8Operation = 1
+l Scenario8Mission = 9
+l Scenario9Operation = 1
+l Scenario9Mission = 10
+l Scenario10Operation = 1
+l Scenario10Mission = 11
+l Scenario11Operation = 1
+l Scenario11Mission = 12
+l Scenario12Operation = 1
+l Scenario12Mission = 13
+l Scenario13Operation = 1
+l Scenario13Mission = 14
+l Scenario14Operation = 1
+l Scenario14Mission = 15
+l Scenario15Operation = 1
+l Scenario15Mission = 16
+l Scenario16Operation = 1
+l Scenario16Mission = 17
+l Scenario17Operation = 1
+l Scenario17Mission = 18
+l Scenario18Operation = 1
+l Scenario18Mission = 19
+l Scenario19Operation = 1
+l Scenario19Mission = 20
+l Scenario20Operation = 2
+l Scenario20Mission = 1
+l Scenario21Operation = 2
+l Scenario21Mission = 2
+l Scenario22Operation = 2
+l Scenario22Mission = 3
+l Scenario23Operation = 2
+l Scenario23Mission = 4
+l Scenario24Operation = 2
+l Scenario24Mission = 5
+l Scenario25Operation = 2
+l Scenario25Mission = 6
+l Scenario26Operation = 2
+l Scenario26Mission = 7
+l Scenario27Operation = 2
+l Scenario27Mission = 8
+l Scenario28Operation = 2
+l Scenario28Mission = 9
+l Scenario29Operation = 2
+l Scenario29Mission = 10
+l Scenario30Operation = 2
+l Scenario30Mission = 11
+l Scenario31Operation = 2
+l Scenario31Mission = 12
+l Scenario32Operation = 2
+l Scenario32Mission = 13
+l Scenario33Operation = 2
+l Scenario33Mission = 14
+l Scenario34Operation = 2
+l Scenario34Mission = 15
+l Scenario35Operation = 2
+l Scenario35Mission = 16
+l Scenario36Operation = 2
+l Scenario36Mission = 17
+l Scenario37Operation = 2
+l Scenario37Mission = 18
+l Scenario38Operation = 2
+l Scenario38Mission = 19
+l Scenario39Operation = 3
+l Scenario39Mission = 1
+l Scenario40Operation = 3
+l Scenario40Mission = 2
+l Scenario41Operation = 3
+l Scenario41Mission = 3
+l Scenario42Operation = 3
+l Scenario42Mission = 4
+l Scenario43Operation = 3
+l Scenario43Mission = 5
+l Scenario44Operation = 3
+l Scenario44Mission = 6
+l Scenario45Operation = 3
+l Scenario45Mission = 7
+l Scenario46Operation = 3
+l Scenario46Mission = 8
+l Scenario47Operation = 3
+l Scenario47Mission = 9
+l Scenario48Operation = 3
+l Scenario48Mission = 10
+l Scenario49Operation = 3
+l Scenario49Mission = 11
+l Scenario50Operation = 3
+l Scenario50Mission = 12
+l Scenario51Operation = 3
+l Scenario51Mission = 13
+l Scenario52Operation = 3
+l Scenario52Mission = 14
+l Scenario53Operation = 3
+l Scenario53Mission = 15
+l Scenario54Operation = 3
+l Scenario54Mission = 16
+l Scenario55Operation = 4
+l Scenario55Mission = 1
+l Scenario56Operation = 4
+l Scenario56Mission = 2
+l Scenario57Operation = 4
+l Scenario57Mission = 3
+l Scenario58Operation = 4
+l Scenario58Mission = 4
+l Scenario59Operation = 4
+l Scenario59Mission = 5
+l Scenario60Operation = 4
+l Scenario60Mission = 6
+l Scenario61Operation = 4
+l Scenario61Mission = 7
+l Scenario62Operation = 4
+l Scenario62Mission = 8
+l Scenario63Operation = 4
+l Scenario63Mission = 9
+l Scenario64Operation = 4
+l Scenario64Mission = 10
+l Scenario65Operation = 4
+l Scenario65Mission = 11
+l Scenario66Operation = 4
+l Scenario66Mission = 12
+l Scenario67Operation = 4
+l Scenario67Mission = 13
+l Scenario68Operation = 4
+l Scenario68Mission = 14
+l Scenario69Operation = 4
+l Scenario69Mission = 15
+l Scenario70Operation = 4
+l Scenario70Mission = 16
+l Scenario71Operation = 4
+l Scenario71Mission = 17
+l Scenario72Operation = 4
+l Scenario72Mission = 18
+l Scenario73Operation = 5
+l Scenario73Mission = 1
+l Scenario74Operation = 5
+l Scenario74Mission = 2
+l Scenario75Operation = 5
+l Scenario75Mission = 3
+l Scenario76Operation = 5
+l Scenario76Mission = 4
+l Scenario77Operation = 5
+l Scenario77Mission = 5
+l Scenario78Operation = 5
+l Scenario78Mission = 6
+l Scenario79Operation = 5
+l Scenario79Mission = 7
+l Scenario80Operation = 5
+l Scenario80Mission = 8
+l Scenario81Operation = 5
+l Scenario81Mission = 9
+l Scenario82Operation = 5
+l Scenario82Mission = 10
+l Scenario83Operation = 5
+l Scenario83Mission = 11
+l Scenario84Operation = 5
+l Scenario84Mission = 12
+l Scenario85Operation = 5
+l Scenario85Mission = 13
+l Scenario86Operation = 5
+l Scenario86Mission = 14
+l Scenario87Operation = 5
+l Scenario87Mission = 15
+l Scenario88Operation = 5
+l Scenario88Mission = 16
+
+
+[GameSegment0]	// 0101
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 1
+ul SmackerMovieId = 0
+ul ScenarioId = 0
+
+[GameSegment1]	// 0102
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 2
+ul SmackerMovieId = 0
+ul ScenarioId = 1
+
+[GameSegment2]	// 0103
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 3
+ul SmackerMovieId = 0
+ul ScenarioId = 2
+
+[GameSegment3]	// 0104
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 4
+ul SmackerMovieId = 0
+ul ScenarioId = 3
+
+[GameSegment4]	// 0105
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 5
+ul SmackerMovieId = 0
+ul ScenarioId = 4
+
+[GameSegment5]	// 0106
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 6
+ul SmackerMovieId = 0
+ul ScenarioId = 5
+
+
+[GameSegment6]	// 0107
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 7
+ul SmackerMovieId = 0
+ul ScenarioId = 6
+
+[GameSegment7]	// 0108
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 8
+ul SmackerMovieId = 0
+ul ScenarioId = 7
+
+[GameSegment8]	// 0109
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 9
+ul SmackerMovieId = 0
+ul ScenarioId = 8
+
+[GameSegment9]	// 0110
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 10
+ul SmackerMovieId = 0
+ul ScenarioId = 9
+
+[GameSegment10]	// 0111
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 11
+ul SmackerMovieId = 0
+ul ScenarioId = 10
+
+[GameSegment11]	// 0112
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 12
+ul SmackerMovieId = 0
+ul ScenarioId = 11
+
+[GameSegment12]	// 0113
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 13
+ul SmackerMovieId = 0
+ul ScenarioId = 12
+
+[GameSegment13]	// 0114
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 14
+ul SmackerMovieId = 0
+ul ScenarioId = 13
+
+[GameSegment14]	// 0115
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 15
+ul SmackerMovieId = 0
+ul ScenarioId = 14
+
+[GameSegment15]	// 0116
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 16
+ul SmackerMovieId = 0
+ul ScenarioId = 15
+
+[GameSegment16]	// 0117
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 17
+ul SmackerMovieId = 0
+ul ScenarioId = 16
+
+[GameSegment17]	// 0118
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 18
+ul SmackerMovieId = 0
+ul ScenarioId = 17
+
+[GameSegment18]	// 0119
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 19
+ul SmackerMovieId = 0
+ul ScenarioId = 18
+
+[GameSegment19]	// 0120
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 20
+ul SmackerMovieId = 0
+ul ScenarioId = 19
+
+[GameSegment20]	// 0201
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 21
+ul SmackerMovieId = 0
+ul ScenarioId = 20
+
+[GameSegment21]	// 0202
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 22
+ul SmackerMovieId = 0
+ul ScenarioId = 21
+
+[GameSegment22]	// 0203
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 23
+ul SmackerMovieId = 0
+ul ScenarioId = 22
+
+[GameSegment23]	// 0204
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 24
+ul SmackerMovieId = 0
+ul ScenarioId = 23
+
+[GameSegment24]	// 0205
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 25
+ul SmackerMovieId = 0
+ul ScenarioId = 24
+
+[GameSegment25]	// 0206
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 26
+ul SmackerMovieId = 0
+ul ScenarioId = 25
+
+[GameSegment26]	// 0207
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 27
+ul SmackerMovieId = 0
+ul ScenarioId = 26
+
+[GameSegment27]	// 0208
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 28
+ul SmackerMovieId = 0
+ul ScenarioId = 27
+
+[GameSegment28]	// 0209
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 29
+ul SmackerMovieId = 0
+ul ScenarioId = 28
+
+[GameSegment29]	// 0210
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 30
+ul SmackerMovieId = 0
+ul ScenarioId = 29
+
+[GameSegment30]	// 0211
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 31
+ul SmackerMovieId = 0
+ul ScenarioId = 30
+
+[GameSegment31]	// 0212
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 32
+ul SmackerMovieId = 0
+ul ScenarioId = 31
+
+[GameSegment32]	// 0213
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 33
+ul SmackerMovieId = 0
+ul ScenarioId = 32
+
+[GameSegment33]	// 0214
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 34
+ul SmackerMovieId = 0
+ul ScenarioId = 33
+
+[GameSegment34]	// 0215
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 35
+ul SmackerMovieId = 0
+ul ScenarioId = 34
+
+[GameSegment35]	// 0216
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 36
+ul SmackerMovieId = 0
+ul ScenarioId = 35
+
+[GameSegment36]	// 0217
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 37
+ul SmackerMovieId = 0
+ul ScenarioId = 36
+
+[GameSegment37]	// 0218
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 38
+ul SmackerMovieId = 0
+ul ScenarioId = 37
+
+[GameSegment38]	// 0219
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 39
+ul SmackerMovieId = 0
+ul ScenarioId = 38
+
+[GameSegment39]	// 0301
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 40
+ul SmackerMovieId = 0
+ul ScenarioId = 39
+
+[GameSegment40]	// 0302
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 41
+ul SmackerMovieId = 0
+ul ScenarioId = 40
+
+[GameSegment41]	// 0303
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 42
+ul SmackerMovieId = 0
+ul ScenarioId = 41
+
+[GameSegment42]	// 0304
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 43
+ul SmackerMovieId = 0
+ul ScenarioId = 42
+
+[GameSegment43]	// 0305
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 44
+ul SmackerMovieId = 0
+ul ScenarioId = 43
+
+[GameSegment44]	// 0306
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 45
+ul SmackerMovieId = 0
+ul ScenarioId = 44
+
+[GameSegment45]	// 0307
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 46
+ul SmackerMovieId = 0
+ul ScenarioId = 45
+
+[GameSegment46]	// 0308
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 47
+ul SmackerMovieId = 0
+ul ScenarioId = 46
+
+[GameSegment47]	// 0309
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 48
+ul SmackerMovieId = 0
+ul ScenarioId = 47
+
+[GameSegment48]	// 0310
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 49
+ul SmackerMovieId = 0
+ul ScenarioId = 48
+
+[GameSegment49]	// 0311
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 50
+ul SmackerMovieId = 0
+ul ScenarioId = 49
+
+[GameSegment50]	// 0312
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 51
+ul SmackerMovieId = 0
+ul ScenarioId = 50
+
+[GameSegment51]	// 0313
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 52
+ul SmackerMovieId = 0
+ul ScenarioId = 51
+
+[GameSegment52]	// 0314
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 53
+ul SmackerMovieId = 0
+ul ScenarioId = 52
+
+[GameSegment53]	// 0315
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 54
+ul SmackerMovieId = 0
+ul ScenarioId = 53
+
+[GameSegment54]	// 0316
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 55
+ul SmackerMovieId = 0
+ul ScenarioId = 54
+
+[GameSegment55]	// 0401
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 56
+ul SmackerMovieId = 0
+ul ScenarioId = 55
+
+[GameSegment56] // 0402
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 57
+ul SmackerMovieId = 0
+ul ScenarioId = 56
+
+[GameSegment57] // 0403
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 58
+ul SmackerMovieId = 0
+ul ScenarioId = 57
+
+[GameSegment58] // 0404
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 59
+ul SmackerMovieId = 0
+ul ScenarioId = 58
+
+[GameSegment59] // 0405
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 60
+ul SmackerMovieId = 0
+ul ScenarioId = 59
+
+[GameSegment60] // 0406
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 61
+ul SmackerMovieId = 0
+ul ScenarioId = 60
+
+[GameSegment61] // 0407
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 62
+ul SmackerMovieId = 0
+ul ScenarioId = 61
+
+[GameSegment62] // 0408
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 63
+ul SmackerMovieId = 0
+ul ScenarioId = 62
+
+[GameSegment63] // 0409
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 64
+ul SmackerMovieId = 0
+ul ScenarioId = 63
+
+[GameSegment64] // 0410
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 65
+ul SmackerMovieId = 0
+ul ScenarioId = 64
+
+[GameSegment65] // 0411
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 66
+ul SmackerMovieId = 0
+ul ScenarioId = 65
+
+[GameSegment66] // 0412
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 67
+ul SmackerMovieId = 0
+ul ScenarioId = 66
+
+[GameSegment67] // 0413
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 68
+ul SmackerMovieId = 0
+ul ScenarioId = 67
+
+[GameSegment68] // 0414
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 69
+ul SmackerMovieId = 0
+ul ScenarioId = 68
+
+[GameSegment69] // 0415
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 70
+ul SmackerMovieId = 0
+ul ScenarioId = 69
+
+[GameSegment70] // 0416
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 71
+ul SmackerMovieId = 0
+ul ScenarioId = 70
+
+[GameSegment71] // 0417
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 72
+ul SmackerMovieId = 0
+ul ScenarioId = 71
+
+[GameSegment72] // 0418
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 73
+ul SmackerMovieId = 0
+ul ScenarioId = 72
+
+[GameSegment73] // 0501
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 74
+ul SmackerMovieId = 0
+ul ScenarioId = 73
+
+[GameSegment74] // 0502
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 75
+ul SmackerMovieId = 0
+ul ScenarioId = 74
+
+[GameSegment75] // 0503
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 76
+ul SmackerMovieId = 0
+ul ScenarioId = 75
+
+[GameSegment76] // 0504
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 77
+ul SmackerMovieId = 0
+ul ScenarioId = 76
+
+[GameSegment77] // 0505
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 78
+ul SmackerMovieId = 0
+ul ScenarioId = 77
+
+[GameSegment78] // 0506
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 79
+ul SmackerMovieId = 0
+ul ScenarioId = 78
+
+[GameSegment79] // 0507
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 80
+ul SmackerMovieId = 0
+ul ScenarioId = 79
+
+[GameSegment80] // 0508
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 81
+ul SmackerMovieId = 0
+ul ScenarioId = 80
+
+
+[GameSegment81] // 0509
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 82
+ul SmackerMovieId = 0
+ul ScenarioId = 81
+
+[GameSegment82] // 0510
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 83
+ul SmackerMovieId = 0
+ul ScenarioId = 82
+
+[GameSegment83] // 0511
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 84
+ul SmackerMovieId = 0
+ul ScenarioId = 83
+
+[GameSegment84] // 0512
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 85
+ul SmackerMovieId = 0
+ul ScenarioId = 84
+
+[GameSegment85] // 0513
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 86
+ul SmackerMovieId = 0
+ul ScenarioId = 85
+
+[GameSegment86] // 0514
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 87
+ul SmackerMovieId = 0
+ul ScenarioId = 86
+
+[GameSegment87] // 0515
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 88
+ul SmackerMovieId = 0
+ul ScenarioId = 87
+
+[GameSegment88] // 0516
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 89
+ul SmackerMovieId = 0
+ul ScenarioId = 88
+
+[GameSegment89]
+ul GameState = 3
+ul NextGameState = 16
+ul NextGameSegment = 0
+ul SmackerMovieId = -1
+ul ScenarioId = 0
+
+FITend

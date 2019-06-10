@@ -1,0 +1,48 @@
+FITini 
+
+[General]
+st Name="Lynx"
+st Callsign="LYNX"
+l paintScheme=113
+st pilotAudio="pilotp"
+st pilotVideo="PILOT15"
+st Picture="pilot15.TGA"
+st Brain="pbrain"
+b Assigned=FALSE
+b NotMineYet=FALSE
+l NameIndex=15
+l DescIndex=316
+
+[PersonalityTraits]
+c Professionalism=50
+c Decorum=50
+c Aggressiveness=60
+c Courage=50
+
+[Skills]
+c Piloting=65
+c Jumping=60
+c Sensors=60
+c Gunnery=70
+
+[OriginalSkills]
+c Piloting=65
+c Jumping=60
+c Sensors=60
+c Gunnery=70
+
+[LatestSkills]
+c Piloting=65
+c Jumping=60
+c Sensors=60
+c Gunnery=70
+
+[SkillPoints]
+f Piloting=0.000000
+f Jumping=0.000000
+f Sensors=0.000000
+f Gunnery=0.000000
+
+[Status]
+c Wounds=0
+FITend 

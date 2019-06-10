@@ -1,0 +1,48 @@
+FITini
+
+// -------------------------------------------------------------------------
+//
+//      MechWarrior:  2004   Name: T-Wolf  Callsign: T-Wolf
+//
+//      Creation Date: 24/03/17   By: RizZen
+//
+// -------------------------------------------------------------------------
+
+
+
+[General]
+st Brain = "pbrain"
+st Name =                                                  "T-Wolf"
+l Rank =                                                    3 
+st Callsign =                                              "T-WOLF"
+ul ID =                                                     2004 
+l NameIndex =                                               54 
+l DescIndex =                                               604 
+ul HeadIcon =                                               0 
+l paintScheme =                                             91 
+st pilotAudio =                                            "TimbA"
+st pilotVideo =                                            "PILOT54"
+st Picture =                                               "pilot54.TGA"
+
+[PersonalityTraits]
+c Professionalism =                                         50 
+c Decorum =                                                 50 
+c Aggressiveness =                                          50 
+c Courage =                                                 50 
+
+[Skills]
+c Piloting =                                                70 
+c Jumping =                                                 70 
+c Sensors =                                                 70 
+c Gunnery =                                                 70 
+
+[Affinities]
+c MechClass =                                               0 
+c MechType =                                                0 
+c WeaponClass =                                             0 
+uc[2] WeaponTypes =                                        0,0
+
+[Status]
+c Wounds =                                                  0 
+
+FITEnd

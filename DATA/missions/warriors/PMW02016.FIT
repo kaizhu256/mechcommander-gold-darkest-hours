@@ -1,0 +1,48 @@
+FITini
+
+// -------------------------------------------------------------------------
+//
+//      MechWarrior:  2016   Name: Michawn  Callsign: MICH
+//
+//      Creation Date: 09/04/17   By: RizZen
+//
+// -------------------------------------------------------------------------
+
+
+
+[General]
+st Brain = "pbrain"
+st Name =                                                  "Michawn"
+l Rank =                                                    1 
+st Callsign =                                              "Mich"
+ul ID =                                                     2016 
+l NameIndex =                                               66
+l DescIndex =                                               616 
+ul HeadIcon =                                               0 
+l paintScheme =                                             46 
+st pilotAudio =                                            "MichaA"
+st pilotVideo =                                            "PILOT66"
+st Picture =                                               "Pilot66.TGA"
+
+[PersonalityTraits]
+c Professionalism =                                         50 
+c Decorum =                                                 50 
+c Aggressiveness =                                          50 
+c Courage =                                                 50 
+
+[Skills]
+c Piloting =                                                50 
+c Jumping =                                                 50 
+c Sensors =                                                 50 
+c Gunnery =                                                 50 
+
+[Affinities]
+c MechClass =                                               0 
+c MechType =                                                0 
+c WeaponClass =                                             0 
+uc[2] WeaponTypes =                                        0,0
+
+[Status]
+c Wounds =                                                  0 
+
+FITEnd

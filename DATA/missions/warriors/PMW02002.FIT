@@ -1,0 +1,48 @@
+FITini
+
+// -------------------------------------------------------------------------
+//
+//      MechWarrior:  2002   Name: Magic  Callsign: Magic
+//
+//      Creation Date: 24/03/17   By: RizZen
+//
+// -------------------------------------------------------------------------
+
+
+
+[General]
+st Brain = "pbrain"
+st Name =                                                  "Magic"
+l Rank =                                                    3 
+st Callsign =                                              "MAGIC"
+ul ID =                                                     2002 
+l NameIndex =                                               52 
+l DescIndex =                                               602 
+ul HeadIcon =                                               0 
+l paintScheme =                                             79 
+st pilotAudio =                                            "MagicA"
+st pilotVideo =                                            "PILOT52"
+st Picture =                                               "pilot52.TGA"
+
+[PersonalityTraits]
+c Professionalism =                                         50 
+c Decorum =                                                 50 
+c Aggressiveness =                                          50 
+c Courage =                                                 50 
+
+[Skills]
+c Piloting =                                                70 
+c Jumping =                                                 70 
+c Sensors =                                                 70 
+c Gunnery =                                                 70 
+
+[Affinities]
+c MechClass =                                               0 
+c MechType =                                                0 
+c WeaponClass =                                             0 
+uc[2] WeaponTypes =                                        0,0
+
+[Status]
+c Wounds =                                                  0 
+
+FITEnd

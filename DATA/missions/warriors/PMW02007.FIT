@@ -1,0 +1,48 @@
+FITini
+
+// -------------------------------------------------------------------------
+//
+//      MechWarrior:  2007   Name: Eagle  Callsign: Eagle
+//
+//      Creation Date: 24/03/17   By: RizZen
+//
+// -------------------------------------------------------------------------
+
+
+
+[General]
+st Brain = "pbrain"
+st Name =                                                  "Eagle"
+l Rank =                                                    2 
+st Callsign =                                              "EAGLE"
+ul ID =                                                     2007 
+l NameIndex =                                               57 
+l DescIndex =                                               607 
+ul HeadIcon =                                               0 
+l paintScheme =                                             91 
+st pilotAudio =                                            "EagleA"
+st pilotVideo =                                            "PILOT57"
+st Picture =                                               "pilot57.TGA"
+
+[PersonalityTraits]
+c Professionalism =                                         50 
+c Decorum =                                                 50 
+c Aggressiveness =                                          50 
+c Courage =                                                 50 
+
+[Skills]
+c Piloting =                                                60 
+c Jumping =                                                 45 
+c Sensors =                                                 60 
+c Gunnery =                                                 70 
+
+[Affinities]
+c MechClass =                                               0 
+c MechType =                                                0 
+c WeaponClass =                                             0 
+uc[2] WeaponTypes =                                        0,0
+
+[Status]
+c Wounds =                                                  0 
+
+FITEnd

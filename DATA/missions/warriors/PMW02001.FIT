@@ -1,0 +1,48 @@
+FITini
+
+// -------------------------------------------------------------------------
+//
+//      MechWarrior:  2001   Name: Foxdev  Callsign: Foxdev
+//
+//      Creation Date: 24/03/17   By: RizZen
+//
+// -------------------------------------------------------------------------
+
+
+
+[General]
+st Brain = "pbrain"
+st Name =                                                  "FoxDev"
+l Rank =                                                    2 
+st Callsign =                                              "FoxDev"
+ul ID =                                                     2001 
+l NameIndex =                                               51 
+l DescIndex =                                               601 
+ul HeadIcon =                                               0 
+l paintScheme =                                             46 
+st pilotAudio =                                            "FoxDA"
+st pilotVideo =                                            "PILOT51"
+st Picture =                                               "pilot51.TGA"
+
+[PersonalityTraits]
+c Professionalism =                                         50 
+c Decorum =                                                 50 
+c Aggressiveness =                                          50 
+c Courage =                                                 50 
+
+[Skills]
+c Piloting =                                                60 
+c Jumping =                                                 40 
+c Sensors =                                                 65 
+c Gunnery =                                                 55 
+
+[Affinities]
+c MechClass =                                               0 
+c MechType =                                                0 
+c WeaponClass =                                             0 
+uc[2] WeaponTypes =                                        0,0
+
+[Status]
+c Wounds =                                                  0 
+
+FITEnd

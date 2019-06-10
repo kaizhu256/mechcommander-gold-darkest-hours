@@ -1,0 +1,48 @@
+FITini
+
+// -------------------------------------------------------------------------
+//
+//      MechWarrior:  2003   Name: Wolfman  Callsign: Wolfman
+//
+//      Creation Date: 24/03/17   By: RizZen
+//
+// -------------------------------------------------------------------------
+
+
+
+[General]
+st Brain = "pbrain"
+st Name =                                                  "Wolfman"
+l Rank =                                                    1 
+st Callsign =                                              "WOLFMAN"
+ul ID =                                                     2003 
+l NameIndex =                                               53 
+l DescIndex =                                               603 
+ul HeadIcon =                                               0 
+l paintScheme =                                             78 
+st pilotAudio =                                            "WolfA"
+st pilotVideo =                                            "PILOT53"
+st Picture =                                               "pilot53.TGA"
+
+[PersonalityTraits]
+c Professionalism =                                         50 
+c Decorum =                                                 50 
+c Aggressiveness =                                          50 
+c Courage =                                                 50 
+
+[Skills]
+c Piloting =                                                60 
+c Jumping =                                                 40 
+c Sensors =                                                 40 
+c Gunnery =                                                 60 
+
+[Affinities]
+c MechClass =                                               0 
+c MechType =                                                0 
+c WeaponClass =                                             0 
+uc[2] WeaponTypes =                                        0,0
+
+[Status]
+c Wounds =                                                  0 
+
+FITEnd

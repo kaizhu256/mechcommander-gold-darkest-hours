@@ -1,0 +1,48 @@
+FITini
+
+// -------------------------------------------------------------------------
+//
+//      MechWarrior:  2009   Name: SeanLang  Callsign: SeanLang
+//
+//      Creation Date: 09/04/17   By: RizZen
+//
+// -------------------------------------------------------------------------
+
+
+
+[General]
+st Brain = "pbrain"
+st Name =                                                  "SeanLang"
+l Rank =                                                    2 
+st Callsign =                                              "SEAN"
+ul ID =                                                     2009 
+l NameIndex =                                               59 
+l DescIndex =                                               609 
+ul HeadIcon =                                               0 
+l paintScheme =                                             79 
+st pilotAudio =                                            "SeanA"
+st pilotVideo =                                            "PILOT59"
+st Picture =                                               "pilot59.TGA"
+
+[PersonalityTraits]
+c Professionalism =                                         50 
+c Decorum =                                                 50 
+c Aggressiveness =                                          50 
+c Courage =                                                 50 
+
+[Skills]
+c Piloting =                                                65 
+c Jumping =                                                 55 
+c Sensors =                                                 55 
+c Gunnery =                                                 70 
+
+[Affinities]
+c MechClass =                                               0 
+c MechType =                                                0 
+c WeaponClass =                                             0 
+uc[2] WeaponTypes =                                        0,0
+
+[Status]
+c Wounds =                                                  0 
+
+FITEnd

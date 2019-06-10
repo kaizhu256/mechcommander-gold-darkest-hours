@@ -1,0 +1,452 @@
+FITini
+
+[HeapInfo]
+ul heapSize = 32768
+
+[Movies]
+ul numMovies = 5
+
+st movie0 = "logos1"
+st movie1 = "opening"
+st movie2 = "credits"
+st movie3 = "mcxvid4"
+st movie4 = "credits"
+			//  Campaign designer: RizZen			Creation date: 03/31/2018
+			//  Version No.: v4.0
+			//  MCG - Darkest Hours - Expansion Campaign Merge:
+			//  Rewrote all TurnCoat & DSC-Raid mission briefings
+			//	Original Expansion	  12 Missions
+			//    + Bengal User Expansion	+ 12 Missions
+			//    + Turncoat User Expansion + 12 Missions
+			//    + DSC-Raid User Expansion	+ 5 Missions
+			//	____________________________________
+			//    = Darkest Hours Expansion  = 41 Missions to play!!!
+[Scenarios]
+ul numScenarios = 41
+ul LastScenario = 40
+
+//			Operation I - 11 Missions
+st Scenario0 = "xRiz0101"				// 0101 Original Expansion 01
+st Scenario1 = "xRiz0102"				// 0102 Original Expansion 02
+st Scenario2 = "xRiz0103"				// 0103 Original Expansion 03
+st Scenario3 = "dccbf926_7439_11d4_982c_95867b548426"	// 0101 Bengal   01
+st Scenario4 = "dccbf927_7439_11d4_982c_95867b548426"	// 0102 Bengal   02
+st Scenario5 = "4944fca0_83ee_11d4_9b42_b0dd951c204e"	// 0101 Turncoat 01
+st Scenario6 = "a40a2440_8064_11d4_9b42_d78597f9b24b"	// 0102 Turncoat 02
+st Scenario7 = "dccbf920_7439_11d4_982c_95867b548426"	// 0103 Bengal   03
+st Scenario8 = "f7688600_806d_11d4_9b42_d78597f9b24b"	// 0103 Turncoat 03
+st Scenario9 = "c6f349e0_8204_11d4_9b42_c755a386b638"	// 0104 Turncoat 04
+st Scenario10 = "xRiz0104"				// 0104 Original Expansion 04 - Op1 Final
+//			Operation II - 14 Missions
+st Scenario11 = "xRiz0201"					// 0201 Original Expansion 05 - Op2 Beginning
+st Scenario12 = "bbf9faa0_e576_11d3_971b_647c16c10000"		// 0101 DSC Raid 01
+st Scenario13 = "xRiz0202"					// 0202 Original Expansion 06
+st Scenario14 = "xRiz0203"					// 0203 Original Expansion 07
+st Scenario15 = "dccbf922_7439_11d4_982c_95867b548426"		// 0201 Bengal   04
+st Scenario16 = "cb859ea1_6efd_11d4_982c_93a448bba03e"		// 0202 Bengal   05
+st Scenario17 = "5b128b60_85af_11d4_9b42_def60fa728ed"		// 0201 Turncoat 05
+st Scenario18 = "6a0ed940_82b0_11d4_9b42_feb7104c3a87"		// 0202 Turncoat 06
+st Scenario19 = "dccbf921_7439_11d4_982c_95867b548426"		// 0203 Bengal   06
+st Scenario20 = "0784c9c0_82c8_11d4_9b42_f1eccbbfe54b"		// 0203 Turncoat 07
+st Scenario21 = "dccbf923_7439_11d4_982c_95867b548426"		// 0204 Bengal   07
+st Scenario22 = "2768dce0_8390_11d4_9b42_ed1cd27dd25c"		// 0204 Turncoat 08
+st Scenario23 = "791a0280_e656_11d3_971b_e47c16c10000"		// 0102 DSC Raid 02 - Op2 Final I
+st Scenario24 = "xRiz0204"					// 0204 Original Expansion 08 - Op2 Final II
+//			Operation III - 16 Missions
+st Scenario25 = "xRiz0301"				// 0301 Original Expansion 09 - Op3 beginning
+st Scenario26 = "xRiz0302"				// 0302 Original Expansion 10
+st Scenario27 = "xRiz0303"				// 0303 Original Expansion 11
+st Scenario28 = "b7e097c0_7442_11d4_982c_95867b548426"	// 0301 Bengal   08
+st Scenario29 = "75603680_83a1_11d4_9b42_9240cac7124c"	// 0301 Turncoat 09
+st Scenario30 = "19639000_845c_11d4_9b42_f06b18cfbed1"	// 0302 Turncoat 10
+st Scenario31 = "dccbf925_7439_11d4_982c_95867b548426"	// 0302 Bengal   09
+st Scenario32 = "924e4b20_ddb5_11d3_971b_e47c16c10000"	// 0103 DSC Raid 03
+st Scenario33 = "45393aa2_6d40_11d4_982c_d0c81901d026"	// 0303 Bengal   10
+st Scenario34 = "fe068cc0_8471_11d4_9b42_f06b18cfbed1"	// 0303 Turncoat 11
+st Scenario35 = "8b878922_6e0e_11d4_982c_b45f3b6b6427"	// 0304 Bengal   11
+st Scenario36 = "b6cae620_dda1_11d3_971b_e47c16c10000"	// 0104 DSC Raid 04
+st Scenario37 = "e8090160_854c_11d4_9b42_be81c27d97e8"	// 0304 Turncoat 12
+st Scenario38 = "b2699ce0_e0d8_11d3_971b_543115c10f03"	// 0105 DSC Raid 05
+st Scenario39 = "45393aa4_6d40_11d4_982c_d0c81901d026"	// 0305 Bengal   12
+st Scenario40 = "xRiz0304"				// 0303 Original Expansion 12 - Op3 Final
+
+[OpInfo]
+l Scenario0Operation = 1
+l Scenario0Mission = 1
+l Scenario1Operation = 1
+l Scenario1Mission = 2
+l Scenario2Operation = 1
+l Scenario2Mission = 3
+l Scenario3Operation = 1
+l Scenario3Mission = 4
+l Scenario4Operation = 1
+l Scenario4Mission = 5
+l Scenario5Operation = 1
+l Scenario5Mission = 6
+l Scenario6Operation = 1
+l Scenario6Mission = 7
+l Scenario7Operation = 1
+l Scenario7Mission = 8
+l Scenario8Operation = 1
+l Scenario8Mission = 9
+l Scenario9Operation = 1
+l Scenario9Mission = 10
+l Scenario10Operation = 1 // Operation 1 comes with 11 Missions to play
+l Scenario10Mission = 11
+l Scenario11Operation = 2
+l Scenario11Mission = 1
+l Scenario12Operation = 2
+l Scenario12Mission = 2
+l Scenario13Operation = 2
+l Scenario13Mission = 3
+l Scenario14Operation = 2
+l Scenario14Mission = 4
+l Scenario15Operation = 2
+l Scenario15Mission = 5
+l Scenario16Operation = 2
+l Scenario16Mission = 6
+l Scenario17Operation = 2
+l Scenario17Mission = 7
+l Scenario18Operation = 2
+l Scenario18Mission = 8
+l Scenario19Operation = 2
+l Scenario19Mission = 9
+l Scenario20Operation = 2
+l Scenario20Mission = 10
+l Scenario21Operation = 2
+l Scenario21Mission = 11
+l Scenario22Operation = 2
+l Scenario22Mission = 12
+l Scenario23Operation = 2
+l Scenario23Mission = 13
+l Scenario24Operation = 2 // Operation 2 comes with 14 missions to play
+l Scenario24Mission = 14
+l Scenario25Operation = 3
+l Scenario25Mission = 1
+l Scenario26Operation = 3
+l Scenario26Mission = 2
+l Scenario27Operation = 3
+l Scenario27Mission = 3
+l Scenario28Operation = 3
+l Scenario28Mission = 4
+l Scenario29Operation = 3
+l Scenario29Mission = 5
+l Scenario30Operation = 3
+l Scenario30Mission = 6
+l Scenario31Operation = 3
+l Scenario31Mission = 7
+l Scenario32Operation = 3
+l Scenario32Mission = 8
+l Scenario33Operation = 3
+l Scenario33Mission = 9
+l Scenario34Operation = 3
+l Scenario34Mission = 10
+l Scenario35Operation = 3
+l Scenario35Mission = 11
+l Scenario36Operation = 3
+l Scenario36Mission = 12
+l Scenario37Operation = 3
+l Scenario37Mission = 13
+l Scenario38Operation = 3
+l Scenario38Mission = 14
+l Scenario39Operation = 3
+l Scenario39Mission = 15
+l Scenario40Operation = 3 // Operation 3 comes with 16 missions to play
+l Scenario40Mission = 16
+
+[GameSegment0]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 1
+ul SmackerMovieId = 0
+ul ScenarioId = 0
+
+[GameSegment1]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 2
+ul SmackerMovieId = 0
+ul ScenarioId = 1
+
+[GameSegment2]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 3
+ul SmackerMovieId = 0
+ul ScenarioId = 2
+
+[GameSegment3]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 4
+ul SmackerMovieId = 0
+ul ScenarioId = 3
+
+[GameSegment4]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 5
+ul SmackerMovieId = 0
+ul ScenarioId = 4
+
+[GameSegment5]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 6
+ul SmackerMovieId = 0
+ul ScenarioId = 5
+
+[GameSegment6]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 7
+ul SmackerMovieId = 0
+ul ScenarioId = 6
+
+[GameSegment7]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 8
+ul SmackerMovieId = 0
+ul ScenarioId = 7
+
+[GameSegment8]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 9
+ul SmackerMovieId = 0
+ul ScenarioId = 8
+
+[GameSegment9]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 10
+ul SmackerMovieId = 0
+ul ScenarioId = 9
+
+[GameSegment10]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 11
+ul SmackerMovieId = 0
+ul ScenarioId = 10
+
+[GameSegment11]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 12
+ul SmackerMovieId = 0
+ul ScenarioId = 11
+
+[GameSegment12]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 13
+ul SmackerMovieId = 0
+ul ScenarioId = 12
+
+[GameSegment13]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 14
+ul SmackerMovieId = 0
+ul ScenarioId = 13
+
+[GameSegment14]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 15
+ul SmackerMovieId = 0
+ul ScenarioId = 14
+
+[GameSegment15]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 16
+ul SmackerMovieId = 0
+ul ScenarioId = 15
+
+[GameSegment16]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 17
+ul SmackerMovieId = 0
+ul ScenarioId = 16
+
+[GameSegment17]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 18
+ul SmackerMovieId = 0
+ul ScenarioId = 17
+
+[GameSegment18]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 19
+ul SmackerMovieId = 0
+ul ScenarioId = 18
+
+[GameSegment19]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 20
+ul SmackerMovieId = 0
+ul ScenarioId = 19
+
+[GameSegment20]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 21
+ul SmackerMovieId = 0
+ul ScenarioId = 20
+
+[GameSegment21]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 22
+ul SmackerMovieId = 0
+ul ScenarioId = 21
+
+[GameSegment22]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 23
+ul SmackerMovieId = 0
+ul ScenarioId = 22
+
+[GameSegment23]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 24
+ul SmackerMovieId = 0
+ul ScenarioId = 23
+
+[GameSegment24]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 25
+ul SmackerMovieId = 0
+ul ScenarioId = 24
+
+[GameSegment25]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 26
+ul SmackerMovieId = 0
+ul ScenarioId = 25
+
+[GameSegment26]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 27
+ul SmackerMovieId = 0
+ul ScenarioId = 26
+
+[GameSegment27]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 28
+ul SmackerMovieId = 0
+ul ScenarioId = 27
+
+[GameSegment28]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 29
+ul SmackerMovieId = 0
+ul ScenarioId = 28
+
+[GameSegment29]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 30
+ul SmackerMovieId = 0
+ul ScenarioId = 29
+
+[GameSegment30]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 31
+ul SmackerMovieId = 0
+ul ScenarioId = 30
+
+[GameSegment31]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 32
+ul SmackerMovieId = 0
+ul ScenarioId = 31
+
+[GameSegment32]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 33
+ul SmackerMovieId = 0
+ul ScenarioId = 32
+
+[GameSegment33]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 34
+ul SmackerMovieId = 0
+ul ScenarioId = 33
+
+[GameSegment34]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 35
+ul SmackerMovieId = 0
+ul ScenarioId = 34
+
+[GameSegment35]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 36
+ul SmackerMovieId = 0
+ul ScenarioId = 35
+
+[GameSegment36]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 37
+ul SmackerMovieId = 0
+ul ScenarioId = 36
+
+[GameSegment37]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 38
+ul SmackerMovieId = 0
+ul ScenarioId = 37
+
+[GameSegment38]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 39
+ul SmackerMovieId = 0
+ul ScenarioId = 38
+
+[GameSegment39]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 40
+ul SmackerMovieId = 0
+ul ScenarioId = 39
+
+[GameSegment40]
+ul GameState = 0
+ul NextGameState = 10
+ul NextGameSegment = 41
+ul SmackerMovieId = -1
+ul ScenarioId = 40
+
+[GameSegment41]
+ul GameState = 3
+ul NextGameState = 16
+ul NextGameSegment = 0
+ul SmackerMovieId = -1
+ul ScenarioId = 0
+
+
+FITend

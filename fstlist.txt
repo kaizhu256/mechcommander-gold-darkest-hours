@@ -1,3 +1,4 @@
+// run .\makefst.exe fstlist.txt MISSION.FST
 u data\missions\1_1ACT.ABI
 u data\missions\1_1CRE.ABI
 u data\missions\1_1INIT.ABI

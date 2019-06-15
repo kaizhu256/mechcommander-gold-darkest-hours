@@ -1,0 +1,8 @@
+*.dat
+/*.lnk
+/DATA/SAVEGAME/*.pkk
+/DATA/SAVEGAME/*.sav
+/default.*
+/MCGold.iso
+TEMP/
+tmp/

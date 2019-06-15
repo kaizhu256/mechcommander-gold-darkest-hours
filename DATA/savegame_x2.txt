@@ -1,0 +1,48 @@
+FITini 
+
+[General]
+st Name="Rooster"
+st Callsign="ROOSTER"
+l paintScheme=68
+st pilotAudio="pilotd"
+st pilotVideo="PILOT03"
+st Picture="Pilot03.TGA"
+st Brain="pbrain"
+b Assigned=TRUE
+b NotMineYet=FALSE
+l NameIndex=3
+l DescIndex=304
+
+[PersonalityTraits]
+c Professionalism=50
+c Decorum=50
+c Aggressiveness=50
+c Courage=50
+
+[Skills]
+c Piloting=51
+c Jumping=40
+c Sensors=35
+c Gunnery=43
+
+[OriginalSkills]
+c Piloting=51
+c Jumping=40
+c Sensors=35
+c Gunnery=43
+
+[LatestSkills]
+c Piloting=51
+c Jumping=40
+c Sensors=35
+c Gunnery=43
+
+[SkillPoints]
+f Piloting=0.000000
+f Jumping=0.000000
+f Sensors=0.000000
+f Gunnery=0.000000
+
+[Status]
+c Wounds=0
+FITend 

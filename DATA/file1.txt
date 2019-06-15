@@ -1,0 +1,51 @@
+FITini 
+
+[General]
+st Name="Hawk"
+st Callsign="HAWK"
+l Rank = 0 
+l paintScheme=31
+st pilotAudio="pilotb"
+st pilotVideo="pilot01"
+st Picture="pilot01.tga"
+st Brain="pbrain"
+b Assigned=FALSE
+b NotMineYet=FALSE
+ul ID = 52 
+l NameIndex = 1 
+l DescIndex = 302 
+ul HeadIcon =  1000 
+
+[PersonalityTraits]
+c Professionalism=50
+c Decorum=50
+c Aggressiveness=50
+c Courage=50
+
+[Skills]
+c Piloting=35
+c Jumping=40
+c Sensors=50
+c Gunnery=35
+
+[OriginalSkills]
+c Piloting=35
+c Jumping=40
+c Sensors=50
+c Gunnery=35
+
+[LatestSkills]
+c Piloting=35
+c Jumping=40
+c Sensors=50
+c Gunnery=35
+
+[SkillPoints]
+f Piloting=0.000000
+f Jumping=0.000000
+f Sensors=0.000000
+f Gunnery=0.000000
+
+[Status]
+c Wounds=0
+FITend 

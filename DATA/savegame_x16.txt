@@ -1,0 +1,77 @@
+FITini 
+
+[Header]
+st FileType="GroundVehicleProfile"
+
+[General]
+st Name="Centipede"
+f CurTonnage=15.000000
+l NameIndex=29
+st icon="na.gif"
+c Status=0
+st Crew="PCREWA"
+ul Chassis=904
+b Assigned=FALSE
+b NotMineYet=FALSE
+b Deployed=FALSE
+b Required=FALSE
+l DescIndex=550
+
+[Engine]
+f Tonnage=2.000000
+ul Rating=75
+uc MaxMoveSpeed=21
+
+[Armor]
+uc Type=0
+f Tonnage=4.000000
+
+[Front]
+uc CurInternalStructure=1
+uc MaxArmorPoints=15
+uc CurArmorPoints=15
+
+[Left]
+uc CurInternalStructure=1
+uc MaxArmorPoints=12
+uc CurArmorPoints=12
+
+[Right]
+uc CurInternalStructure=1
+uc MaxArmorPoints=12
+uc CurArmorPoints=12
+
+[Rear]
+uc CurInternalStructure=1
+uc MaxArmorPoints=10
+uc CurArmorPoints=10
+
+[Turret]
+uc CurInternalStructure=1
+uc MaxArmorPoints=12
+uc CurArmorPoints=12
+
+[InventoryInfo]
+uc NumOther=5
+uc NumWeapons=1
+uc NumAmmo=0
+
+[Item:0]
+uc MasterID=38
+
+[Item:1]
+uc MasterID=35
+
+[Item:2]
+uc MasterID=19
+
+[Item:3]
+uc MasterID=6
+
+[Item:4]
+uc MasterID=1
+
+[Item:5]
+uc MasterID=140
+uc FacesForward=1
+FITend 

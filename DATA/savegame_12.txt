@@ -1,0 +1,67 @@
+FITini 
+
+[Header]
+st FileType="GroundVehicleProfile"
+
+[General]
+st Name="Refit Truck"
+f CurTonnage=35.000000
+l NameIndex=13
+st icon="na.gif"
+c Status=0
+st Crew="PCREWE"
+ul Chassis=479
+b Assigned=FALSE
+b NotMineYet=FALSE
+b Deployed=FALSE
+b Required=FALSE
+l DescIndex=510
+
+[Engine]
+f Tonnage=1.000000
+ul Rating=1
+uc MaxMoveSpeed=18
+
+[Armor]
+uc Type=1
+f Tonnage=4.250000
+
+[Front]
+uc CurInternalStructure=1
+uc MaxArmorPoints=20
+uc CurArmorPoints=20
+
+[Left]
+uc CurInternalStructure=1
+uc MaxArmorPoints=17
+uc CurArmorPoints=17
+
+[Right]
+uc CurInternalStructure=1
+uc MaxArmorPoints=17
+uc CurArmorPoints=17
+
+[Rear]
+uc CurInternalStructure=1
+uc MaxArmorPoints=14
+uc CurArmorPoints=14
+
+[Turret]
+uc CurInternalStructure=1
+uc MaxArmorPoints=17
+uc CurArmorPoints=17
+
+[InventoryInfo]
+uc NumOther=3
+uc NumWeapons=0
+uc NumAmmo=0
+
+[Item:0]
+uc MasterID=35
+
+[Item:1]
+uc MasterID=6
+
+[Item:2]
+uc MasterID=1
+FITend 

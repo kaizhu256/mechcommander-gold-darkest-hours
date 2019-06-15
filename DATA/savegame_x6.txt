@@ -1,0 +1,48 @@
+FITini 
+
+[General]
+st Name="Goblin"
+st Callsign="GOBLIN"
+l paintScheme=68
+st pilotAudio="pilotW"
+st pilotVideo="PILOT22"
+st Picture="pilot22.TGA"
+st Brain="pbrain"
+b Assigned=TRUE
+b NotMineYet=FALSE
+l NameIndex=22
+l DescIndex=323
+
+[PersonalityTraits]
+c Professionalism=50
+c Decorum=50
+c Aggressiveness=50
+c Courage=50
+
+[Skills]
+c Piloting=67
+c Jumping=65
+c Sensors=60
+c Gunnery=60
+
+[OriginalSkills]
+c Piloting=67
+c Jumping=65
+c Sensors=60
+c Gunnery=60
+
+[LatestSkills]
+c Piloting=67
+c Jumping=65
+c Sensors=60
+c Gunnery=60
+
+[SkillPoints]
+f Piloting=0.000000
+f Jumping=0.000000
+f Sensors=0.000000
+f Gunnery=0.000000
+
+[Status]
+c Wounds=0
+FITend 

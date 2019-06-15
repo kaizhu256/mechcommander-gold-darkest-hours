@@ -20,13 +20,14 @@ The list should have one command/filename pair per line, the command should be a
 for /L %n in (0, 1, 14) do solextract.exe savegame\start0.pkk %n file%n.txt
 makesol.exe filelist.txt savegame\start0.pkk
 
-for ii in {0..14}; do ./solextract.exe savegame/start0.pkk "$ii" "file$ii.txt"; done
+for ii in {0..14}; do ./solextract.exe SAVEGAME/start0.pkk "$ii" "file$ii.txt"; done
+./makesol.exe filelist.txt SAVEGAME/start0.pkk
 
-./makesol.exe filelist.txt savegame/start0.pkk
+for ii in {0..14}; do ./solextract.exe SAVEGAME/00.original.op1.mis1.sav.00 "$ii" "savegame_$ii.txt"; done
+./makesol.exe savegame_list.txt SAVEGAME/00.original.op1.mis1.sav
 
-for ii in {0..18}; do ./pakextract.exe savegame/savegame000.sav.00 "$ii" "savegame_$ii.txt"; done
-
-./makesol.exe savegame_list.txt savegame/savegame000.sav
+for ii in {0..17}; do ./solextract.exe SAVEGAME/00.expansion.op1.mis1.sav.00 "$ii" "savegame_x$ii.txt"; done
+./makesol.exe savegame_xlist.txt SAVEGAME/00.expansion.op1.mis1.sav
 
 
 

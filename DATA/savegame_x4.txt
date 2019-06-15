@@ -1,0 +1,48 @@
+FITini 
+
+[General]
+st Name="Spice"
+st Callsign="SPICE"
+l paintScheme=68
+st pilotAudio="piloti"
+st pilotVideo="PILOT08"
+st Picture="Pilot08.TGA"
+st Brain="pbrain"
+b Assigned=TRUE
+b NotMineYet=FALSE
+l NameIndex=8
+l DescIndex=343
+
+[PersonalityTraits]
+c Professionalism=50
+c Decorum=50
+c Aggressiveness=50
+c Courage=50
+
+[Skills]
+c Piloting=50
+c Jumping=60
+c Sensors=45
+c Gunnery=50
+
+[OriginalSkills]
+c Piloting=50
+c Jumping=60
+c Sensors=45
+c Gunnery=50
+
+[LatestSkills]
+c Piloting=50
+c Jumping=60
+c Sensors=45
+c Gunnery=50
+
+[SkillPoints]
+f Piloting=0.000000
+f Jumping=0.000000
+f Sensors=0.000000
+f Gunnery=0.000000
+
+[Status]
+c Wounds=0
+FITend 

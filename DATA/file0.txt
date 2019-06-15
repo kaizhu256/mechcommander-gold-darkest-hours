@@ -1,0 +1,287 @@
+FITini 
+
+[General] // created as testfile for MCG ULTIMATE by RizZen April 2017
+st PurchaseFile="purchase"
+st GameStateName="a431a1e0_0ccb_11e7_9fd1_0008a1932759"
+l MissionNumber=00
+f LastScenarioTime=0.000000
+f LastLogisticsTime=0.000000
+
+[ResourcePoints]
+ul numPoints=100000
+
+[Warriors]
+ul NumWarriors=1
+
+[Warrior0]
+ul PacketNum=0 //Hawk Pilot 0
+
+[AssWarriors]
+ul NumAssWarriors=3
+
+[Warrior1]
+ul PacketNum=1  // Lynx Pilot 1
+
+[Warrior2]
+ul PacketNum=2  // Hunter Pilot 2
+
+[Warrior3]
+ul PacketNum=3  // Beast Pilot 3
+
+[Mechs]
+ul NumMechs=3
+
+[Mech0]
+ul PacketNum=4 // Catapult A
+
+[Mech1]
+ul PacketNum=5 // Centurion W
+
+
+[Mech2]
+ul PacketNum=6 // Jagermech A
+
+[AssMechs]
+ul NumAssMechs=3
+
+[Mech3]
+ul PacketNum=7 // Commando A 0
+
+[Mech4]
+ul PacketNum=8 // Commando W 1
+
+[Mech5]
+ul PacketNum=9 // Firestarter W 2
+
+[Vehicles]
+ul NumVehicles=3
+
+[Vehicle0]
+ul PacketNum=10 // Refit Truck
+
+[Vehicle1]
+ul PacketNum=11 // Refit Truck
+
+[Vehicle2]
+ul PacketNum=12 // Refit Truck
+
+[AssVehicles]
+ul NumAssVehicles=0
+
+[Components]
+ul NumComponents=38
+
+// Short Range
+
+[Componant0]
+// Short-Range Missile Pack (IS) 
+uc ComponantID = 123
+l NumAvailable = 2
+
+[Componant1]
+// SRM/2
+uc ComponantID = 133
+l NumAvailable = 0
+
+[Componant2]
+// Laser (IS) 
+uc ComponantID = 143
+l NumAvailable = 1
+
+[Componant3]
+// Pulse Laser (IS) 
+uc ComponantID = 144
+l NumAvailable = 0
+
+[Componant4]
+// PS laser
+uc ComponantID = 153
+l NumAvailable = 0
+
+[Componant5]
+// Streak Short-Range Missile Pack(IS) 
+uc ComponantID = 125
+l NumAvailable = 0
+
+[Componant6]
+// Streak SRM/2
+uc ComponantID = 135
+l NumAvailable = 0
+
+[Componant7]
+// Heavy Flamer (IS) 
+uc ComponantID = 147
+l NumAvailable = 1
+
+[Componant8]
+// Flamer
+uc ComponantID = 155
+l NumAvailable = 0
+
+[Componant9]
+// Heavy Autocannon (IS) 
+uc ComponantID = 102
+l NumAvailable = 0
+
+[Componant10]
+// Ultra AC/20
+uc ComponantID = 112
+l NumAvailable = 0
+
+//Medium Range
+
+[Componant11]
+//  Autocannon (IS) 
+uc ComponantID = 101
+l NumAvailable = 0
+
+[Componant12]
+// ER laser
+uc ComponantID = 152
+l NumAvailable = 0
+
+[Componant13]
+// Large Laser (IS) 
+uc ComponantID = 140
+l NumAvailable = 0
+
+[Componant14]
+// Large Pulse Laser (IS) 
+uc ComponantID = 142
+l NumAvailable = 0
+
+[Componant15]
+// Large PS laser
+uc ComponantID = 151
+l NumAvailable = 0
+
+[Componant16]
+// Particle Projector Cannon (IS) 
+uc ComponantID = 145
+l NumAvailable = 0
+
+// Long Range
+
+[Componant17]
+// Light Autocannon (IS) 
+uc ComponantID = 100
+l NumAvailable = 1
+
+[Componant18]
+// Ultra AC/10
+uc ComponantID = 111
+l NumAvailable = 0
+
+[Componant19]
+// Long-Range Missile Rack (IS) 
+uc ComponantID = 120
+l NumAvailable = 1
+
+[Componant20]
+// LRM/5
+uc ComponantID = 130
+l NumAvailable = 0
+
+[Componant21]
+// Light Ultra Autocannon (IS) 
+uc ComponantID = 103
+l NumAvailable = 0
+
+[Componant22]
+// Ultra AC/5
+uc ComponantID = 110
+l NumAvailable = 0
+
+[Componant23]
+// Large ER Laser (IS) 
+uc ComponantID = 141
+l NumAvailable = 0
+
+[Componant24]
+// Large ER laser
+uc ComponantID = 150
+l NumAvailable = 0
+
+[Componant25]
+// ER Particle Projector Cannon (IS) 
+uc ComponantID = 146
+l NumAvailable = 0
+
+[Componant26]
+// ER PPC
+uc ComponantID = 154
+l NumAvailable = 0
+
+[Componant27]
+// Gauss Rifle (IS) 
+uc ComponantID = 104
+l NumAvailable = 0
+
+[Componant28]
+// Guass Rifle
+uc ComponantID = 113
+l NumAvailable = 0
+
+// Sensor
+
+[Componant29]
+// Sensor (Basic) (IS) 
+uc ComponantID = 13
+l NumAvailable = 1
+
+[Componant30]
+// Sensor - Basic
+uc ComponantID = 16
+l NumAvailable = 0
+
+[Componant31]
+// Sensor (Intermediate) (IS) 
+uc ComponantID = 14
+l NumAvailable = 0
+
+[Componant32]
+// Sensor (Advanced) (IS) 
+uc ComponantID = 15
+l NumAvailable = 0
+
+[Componant33]
+// Sensor - Advanced
+uc ComponantID = 17
+l NumAvailable = 0
+
+[Componant34]
+// Beagle Probe (IS) 
+uc ComponantID = 37
+l NumAvailable = 0
+
+[Componant35]
+// Active Probe
+uc ComponantID = 43
+l NumAvailable = 0
+
+[Componant36]
+// Guardian ECM (IS) 
+uc ComponantID = 38
+l NumAvailable = 0
+
+[Componant37]
+// ECM Suite
+uc ComponantID = 42
+l NumAvailable = 0
+
+//////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FITend

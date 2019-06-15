@@ -1,0 +1,509 @@
+FITini
+
+[Header]
+st FileType="MechProfile"
+
+[General]
+st MechType = "Fire Falcon J"
+st Name =                                                  "FRF-J"
+f CurTonnage=1.000000
+st icon =                                                  "Null"
+c Status =                                                  0
+ul Chassis =                                                873
+l NameIndex =                                               18
+l NameVariant =                                             2
+b Assigned=TRUE
+b NotMineYet=FALSE
+l Pilot=-1
+b Required=FALSE
+l DescIndex =                                               456
+
+[Engine]
+f Tonnage=-2.000000
+ul Rating=280
+uc MaxRunSpeed=36
+
+[Armor]
+uc Type=0
+f Tonnage=-1000.000000
+
+[MaxArmorPoints]
+uc Head=255
+uc CenterTorso=255
+uc LeftTorso=255
+uc RightTorso=255
+uc LeftArm=255
+uc RightArm=255
+uc LeftLeg=255
+uc RightLeg=255
+uc RearCenterTorso=255
+uc RearLeftTorso=255
+uc RearRightTorso=255
+
+[CurArmorPoints]
+uc Head=255
+uc CenterTorso=255
+uc LeftTorso=255
+uc RightTorso=255
+uc LeftArm=255
+uc RightArm=255
+uc LeftLeg=255
+uc RightLeg=255
+uc RearCenterTorso=255
+uc RearLeftTorso=255
+uc RearRightTorso=255
+
+[Item:0]
+uc MasterID=43
+
+[Item:1]
+uc MasterID=42
+
+[Item:2]
+uc MasterID=35
+
+[Item:3]
+uc MasterID=34
+
+[Item:4]
+uc MasterID=34
+
+[Item:5]
+uc MasterID=33
+
+[Item:6]
+uc MasterID=33
+
+[Item:7]
+uc MasterID=21
+
+[Item:8]
+uc MasterID=15
+
+[Item:9]
+uc MasterID=12
+
+[Item:10]
+uc MasterID=12
+
+[Item:11]
+uc MasterID=12
+
+[Item:12]
+uc MasterID=12
+
+[Item:13]
+uc MasterID=12
+
+[Item:14]
+uc MasterID=12
+
+[Item:15]
+uc MasterID=6
+
+[Item:16]
+uc MasterID=5
+
+[Item:17]
+uc MasterID=5
+
+[Item:18]
+uc MasterID=4
+
+[Item:19]
+uc MasterID=4
+
+[Item:20]
+uc MasterID=1
+
+[Item:21]
+uc MasterID=161
+uc FacesForward=255
+
+[Item:22]
+uc MasterID=160
+uc FacesForward=255
+
+[Item:23]
+uc MasterID=155
+uc FacesForward=255
+
+[Item:24]
+uc MasterID=154
+uc FacesForward=255
+
+[Item:25]
+uc MasterID=153
+uc FacesForward=255
+
+[Item:26]
+uc MasterID=152
+uc FacesForward=255
+
+[Item:27]
+uc MasterID=151
+uc FacesForward=255
+
+[Item:28]
+uc MasterID=150
+uc FacesForward=255
+
+[Item:29]
+uc MasterID=147
+uc FacesForward=1
+
+[Item:30]
+uc MasterID=146
+uc FacesForward=1
+
+[Item:31]
+uc MasterID=145
+uc FacesForward=1
+
+[Item:32]
+uc MasterID=144
+uc FacesForward=0
+
+[Item:33]
+uc MasterID=143
+uc FacesForward=1
+
+[Item:34]
+uc MasterID=142
+uc FacesForward=0
+
+[Item:35]
+uc MasterID=141
+uc FacesForward=1
+
+[Item:36]
+uc MasterID=140
+uc FacesForward=1
+
+[Item:37]
+uc MasterID=139
+uc FacesForward=0
+
+[Item:38]
+uc MasterID=135
+uc FacesForward=1
+
+[Item:39]
+uc MasterID=133
+uc FacesForward=0
+
+[Item:40]
+uc MasterID=130
+uc FacesForward=1
+
+[Item:41]
+uc MasterID=126
+uc FacesForward=1
+
+[Item:42]
+uc MasterID=125
+uc FacesForward=1
+
+[Item:43]
+uc MasterID=123
+uc FacesForward=0
+
+[Item:44]
+uc MasterID=120
+uc FacesForward=1
+
+[Item:45]
+uc MasterID=118
+uc FacesForward=0
+
+[Item:46]
+uc MasterID=117
+uc FacesForward=1
+
+[Item:47]
+uc MasterID=116
+uc FacesForward=0
+
+[Item:48]
+uc MasterID=113
+uc FacesForward=1
+
+[Item:49]
+uc MasterID=112
+uc FacesForward=0
+
+[Item:50]
+uc MasterID=111
+uc FacesForward=1
+
+[Item:51]
+uc MasterID=110
+uc FacesForward=1
+
+[Item:52]
+uc MasterID=109
+uc FacesForward=1
+
+[Item:53]
+uc MasterID=108
+uc FacesForward=1
+
+[Item:54]
+uc MasterID=107
+uc FacesForward=1
+
+[Item:55]
+uc MasterID=104
+uc FacesForward=0
+
+[Item:56]
+uc MasterID=103
+uc FacesForward=1
+
+[Item:57]
+uc MasterID=102
+uc FacesForward=0
+
+[Item:58]
+uc MasterID=101
+uc FacesForward=1
+
+[Item:59]
+uc MasterID=100
+uc FacesForward=0
+
+[Item:60]
+uc MasterID=99
+uc FacesForward=1
+
+[Item:61]
+uc MasterID=98
+uc FacesForward=0
+
+[Item:62]
+uc MasterID=235
+l Amount=-1
+
+[Item:63]
+uc MasterID=233
+l Amount=-1
+
+[Item:64]
+uc MasterID=230
+l Amount=-1
+
+[Item:65]
+uc MasterID=228
+l Amount=-1
+
+[Item:66]
+uc MasterID=227
+l Amount=-1
+
+[Item:67]
+uc MasterID=226
+l Amount=-1
+
+[Item:68]
+uc MasterID=225
+l Amount=-1
+
+[Item:69]
+uc MasterID=223
+l Amount=-1
+
+[Item:70]
+uc MasterID=220
+l Amount=-1
+
+[Item:71]
+uc MasterID=218
+l Amount=-1
+
+[Item:72]
+uc MasterID=217
+l Amount=-1
+
+[Item:73]
+uc MasterID=216
+l Amount=-1
+
+[Item:74]
+uc MasterID=213
+l Amount=-1
+
+[Item:75]
+uc MasterID=212
+l Amount=-1
+
+[Item:76]
+uc MasterID=211
+l Amount=-1
+
+[Item:77]
+uc MasterID=210
+l Amount=-1
+
+[Item:78]
+uc MasterID=209
+l Amount=-1
+
+[Item:79]
+uc MasterID=208
+l Amount=-1
+
+[Item:80]
+uc MasterID=207
+l Amount=-1
+
+[Item:81]
+uc MasterID=204
+l Amount=-1
+
+[Item:82]
+uc MasterID=203
+l Amount=-1
+
+[Item:83]
+uc MasterID=202
+l Amount=-1
+
+[Item:84]
+uc MasterID=201
+l Amount=-1
+
+[Item:85]
+uc MasterID=200
+l Amount=-1
+
+[Item:86]
+uc MasterID=199
+l Amount=-1
+
+[Item:87]
+uc MasterID=198
+l Amount=-1
+
+[InventoryInfo]
+uc NumOther=21
+uc NumWeapons=41
+uc NumAmmo=26
+
+[Head]
+uc CASE=0
+uc CurInternalStructure=3
+uc HotSpotNumber=7
+uc[2] Component:0=0, 0,
+uc[2] Component:1=1, 0,
+uc[2] Component:2=2, 0,
+uc[2] Component:3=8, 0,
+uc[2] Component:4=15, 0,
+uc[2] Component:5=255, 0,
+
+[CenterTorso]
+uc CASE=1
+uc CurInternalStructure=11
+uc HotSpotNumber=7
+uc[2] Component:0=7, 0,
+uc[2] Component:1=20, 0,
+uc[2] Component:2=255, 0,
+uc[2] Component:3=255, 0,
+uc[2] Component:4=255, 0,
+uc[2] Component:5=255, 0,
+uc[2] Component:6=255, 0,
+uc[2] Component:7=255, 0,
+uc[2] Component:8=255, 0,
+uc[2] Component:9=255, 0,
+uc[2] Component:10=255, 0,
+uc[2] Component:11=255, 0,
+
+[LeftTorso]
+uc CASE=1
+uc CurInternalStructure=8
+uc HotSpotNumber=1
+uc[2] Component:0=23, 0,
+uc[2] Component:1=32, 0,
+uc[2] Component:2=38, 0,
+uc[2] Component:3=255, 0,
+uc[2] Component:4=255, 0,
+uc[2] Component:5=255, 0,
+uc[2] Component:6=255, 0,
+uc[2] Component:7=255, 0,
+uc[2] Component:8=255, 0,
+uc[2] Component:9=255, 0,
+uc[2] Component:10=255, 0,
+uc[2] Component:11=255, 0,
+
+[RightTorso]
+uc CASE=1
+uc CurInternalStructure=8
+uc HotSpotNumber=0
+uc[2] Component:0=25, 0,
+uc[2] Component:1=33, 0,
+uc[2] Component:2=39, 0,
+uc[2] Component:3=255, 0,
+uc[2] Component:4=255, 0,
+uc[2] Component:5=255, 0,
+uc[2] Component:6=255, 0,
+uc[2] Component:7=255, 0,
+uc[2] Component:8=255, 0,
+uc[2] Component:9=255, 0,
+uc[2] Component:10=255, 0,
+uc[2] Component:11=255, 0,
+
+[LeftArm]
+uc CASE=1
+uc CurInternalStructure=6
+uc HotSpotNumber=2
+uc[2] Component:0=5, 0,
+uc[2] Component:1=18, 0,
+uc[2] Component:2=21, 0,
+uc[2] Component:3=24, 0,
+uc[2] Component:4=26, 0,
+uc[2] Component:5=27, 0,
+uc[2] Component:6=28, 0,
+uc[2] Component:7=30, 0,
+uc[2] Component:8=31, 0,
+uc[2] Component:9=34, 0,
+uc[2] Component:10=35, 0,
+uc[2] Component:11=36, 0,
+
+[RightArm]
+uc CASE=1
+uc CurInternalStructure=6
+uc HotSpotNumber=3
+uc[2] Component:0=87, 0,
+uc[2] Component:1=19, 0,
+uc[2] Component:2=22, 0,
+uc[2] Component:3=29, 0,
+uc[2] Component:4=37, 0,
+uc[2] Component:5=255, 0,
+uc[2] Component:6=255, 0,
+uc[2] Component:7=255, 0,
+uc[2] Component:8=255, 0,
+uc[2] Component:9=255, 0,
+uc[2] Component:10=255, 0,
+uc[2] Component:11=255, 0,
+
+[LeftLeg]
+uc CASE=1
+uc CurInternalStructure=8
+uc HotSpotNumber=1
+uc[2] Component:0=3, 0,
+uc[2] Component:1=9, 0,
+uc[2] Component:2=9, 0,
+uc[2] Component:3=9, 0,
+uc[2] Component:4=9, 0,
+uc[2] Component:5=9, 0,
+
+[RightLeg]
+uc CASE=1
+uc CurInternalStructure=8
+uc HotSpotNumber=0
+uc[2] Component:0=4, 0,
+uc[2] Component:1=255, 0,
+uc[2] Component:2=255, 0,
+uc[2] Component:3=255, 0,
+uc[2] Component:4=255, 0,
+uc[2] Component:5=255, 0,
+FITend

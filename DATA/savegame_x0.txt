@@ -1,0 +1,363 @@
+FITini
+
+[Planet]
+l Setting=1
+
+[General]
+st PurchaseFile="xpur"
+l MissionNumber=0
+f LastScenarioTime=0
+f LastLogisticsTime=0
+
+[ResourcePoints]
+ul numPoints=50000
+
+[Warriors]
+ul NumWarriors=1
+
+[Warrior0]
+ul PacketNum=0
+
+[AssWarriors]
+ul NumAssWarriors=5
+
+[Warrior1]
+ul PacketNum=1
+
+[Warrior2]
+ul PacketNum=2
+
+[Warrior3]
+ul PacketNum=3
+
+[Warrior4]
+ul PacketNum=4
+
+[Warrior5]
+ul PacketNum=5
+
+[Mechs]
+ul NumMechs=3
+
+[Mech0]
+ul PacketNum=6
+
+[Mech1]
+ul PacketNum=7
+
+[Mech2]
+ul PacketNum=8
+
+[AssMechs]
+ul NumAssMechs=15
+
+[Mech3]
+ul PacketNum=9
+
+[Mech4]
+ul PacketNum=10
+
+[Mech5]
+ul PacketNum=11
+
+[Mech6]
+ul PacketNum=16
+
+[Mech7]
+ul PacketNum=16
+
+[Mech8]
+ul PacketNum=16
+
+[Mech9]
+ul PacketNum=16
+
+[Mech10]
+ul PacketNum=16
+
+[Mech11]
+ul PacketNum=16
+
+[Mech12]
+ul PacketNum=16
+
+[Mech13]
+ul PacketNum=16
+
+[Mech14]
+ul PacketNum=16
+
+[Mech15]
+ul PacketNum=16
+
+[Mech16]
+ul PacketNum=16
+
+[Mech17]
+ul PacketNum=16
+
+[Vehicles]
+ul NumVehicles=2
+
+[Vehicle0]
+ul PacketNum=14
+
+[Vehicle1]
+ul PacketNum=15
+
+[AssVehicles]
+ul NumAssVehicles=0
+
+[Components]
+ul NumComponents=50
+
+[Componant0]
+// Medium Pulse Laser (IS)
+uc ComponantId=144
+l NumAvailable=0
+
+[Componant1]
+// Medium Pulse Laser (Clan)
+uc ComponantId=153
+l NumAvailable=0
+
+[Componant2]
+// Short-Range Missile/2 (IS)
+uc ComponantId=123
+l NumAvailable=6
+
+[Componant3]
+// Short-Range Missile/2 (CLAN)
+uc ComponantId=133
+l NumAvailable=0
+
+[Componant4]
+// Medium Laser (IS)
+uc ComponantId=143
+l NumAvailable=4
+
+[Componant5]
+// Streak Short-Range Missile/2 (IS)
+uc ComponantId=125
+l NumAvailable=3
+
+[Componant6]
+// Streak Short-Range Missile/2 (Clan)
+uc ComponantId=135
+l NumAvailable=0
+
+[Componant7]
+// Flamer (IS)
+uc ComponantId=147
+l NumAvailable=2
+
+[Componant8]
+// Flamer (Clan)
+uc ComponantId=155
+l NumAvailable=0
+
+[Componant9]
+// Heavy Autocannon (IS)
+uc ComponantId=102
+l NumAvailable=0
+
+[Componant10]
+// Heavy Ultra AC (Clan)
+uc ComponantId=112
+l NumAvailable=0
+
+[Componant11]
+// Large Pulse Laser (IS)
+uc ComponantId=142
+l NumAvailable=1
+
+[Componant12]
+// Medium ER Laser (Clan)
+uc ComponantId=152
+l NumAvailable=0
+
+[Componant13]
+// Large Pulse Laser (Clan)
+uc ComponantId=151
+l NumAvailable=0
+
+[Componant14]
+// Large Laser (IS)
+uc ComponantId=140
+l NumAvailable=1
+
+[Componant15]
+// Medium Autocannon (IS)
+uc ComponantId=101
+l NumAvailable=1
+
+[Componant16]
+// Medium Ultra AC (Clan)
+uc ComponantId=111
+l NumAvailable=0
+
+[Componant17]
+// Particle Projector Cannon (IS)
+uc ComponantId=145
+l NumAvailable=1
+
+[Componant18]
+// Long-Range Missile/5 (IS)
+uc ComponantId=120
+l NumAvailable=5
+
+[Componant19]
+// Long-Range Missile/5 (CLAN)
+uc ComponantId=130
+l NumAvailable=0
+
+[Componant20]
+// Light Autocannon (IS)
+uc ComponantId=100
+l NumAvailable=2
+
+[Componant21]
+// Light Ultra Autocannon (IS)
+uc ComponantId=103
+l NumAvailable=0
+
+[Componant22]
+// Light Ultra AC (Clan)
+uc ComponantId=110
+l NumAvailable=0
+
+[Componant23]
+// Large ER Laser (IS)
+uc ComponantId=141
+l NumAvailable=0
+
+[Componant24]
+// Large ER Laser (Clan)
+uc ComponantId=150
+l NumAvailable=0
+
+[Componant25]
+// ER Particle Projector Cannon (IS)
+uc ComponantId=146
+l NumAvailable=0
+
+[Componant26]
+// Gauss Rifle (IS)
+uc ComponantId=104
+l NumAvailable=0
+
+[Componant27]
+// Gauss Rifle (Clan)
+uc ComponantId=113
+l NumAvailable=0
+
+[Componant28]
+// ER Particle Projector (Clan)
+uc ComponantId=154
+l NumAvailable=0
+
+[Componant29]
+// Sensor (Basic) (IS)
+uc ComponantId=13
+l NumAvailable=2
+
+[Componant30]
+// Sensor (Basic) (Clan)
+uc ComponantId=16
+l NumAvailable=0
+
+[Componant31]
+// Sensor (Intermediate) (IS)
+uc ComponantId=14
+l NumAvailable=0
+
+[Componant32]
+// Sensor (Advanced) (IS)
+uc ComponantId=15
+l NumAvailable=0
+
+[Componant33]
+// Sensor (Advanced) (Clan)
+uc ComponantId=17
+l NumAvailable=0
+
+[Componant34]
+// Beagle Probe (IS)
+uc ComponantId=37
+l NumAvailable=0
+
+[Componant35]
+// Guardian ECM (IS)
+uc ComponantId=38
+l NumAvailable=0
+
+[Componant36]
+// ECM Suite (Clan)
+uc ComponantId=42
+l NumAvailable=0
+
+[Componant37]
+// Active Probe (Clan)
+uc ComponantId=43
+l NumAvailable=0
+
+[Componant38]
+// Heavy Gauss Cannon (IS)
+uc ComponantId=98
+l NumAvailable=0
+
+[Componant39]
+// Light Gauss Cannon (IS)
+uc ComponantId=99
+l NumAvailable=0
+
+[Componant40]
+// Light LBX AutoCannon (IS)
+uc ComponantId=107
+l NumAvailable=0
+
+[Componant41]
+// Medium LBX AutoCannon (IS)
+uc ComponantId=108
+l NumAvailable=0
+
+[Componant42]
+// Heavy LBX AutoCannon (IS)
+uc ComponantId=109
+l NumAvailable=0
+
+[Componant43]
+// Light LBX AutoCannon (Clan)
+uc ComponantId=116
+l NumAvailable=0
+
+[Componant44]
+// Medium LBX AutoCannon (Clan)
+uc ComponantId=117
+l NumAvailable=0
+
+[Componant45]
+// Heavy LBX AutoCannon (Clan)
+uc ComponantId=118
+l NumAvailable=0
+
+[Componant46]
+// Heavy Thunderbolt
+uc ComponantId=126
+l NumAvailable=0
+
+[Componant47]
+// Large X Pulse Laser
+uc ComponantId=139
+l NumAvailable=0
+
+[Componant48]
+// Long Tom
+uc ComponantId=160
+l NumAvailable=0
+
+[Componant49]
+// Sniper Cannon
+uc ComponantId=161
+l NumAvailable=0
+FITend

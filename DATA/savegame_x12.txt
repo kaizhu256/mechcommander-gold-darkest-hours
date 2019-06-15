@@ -1,0 +1,245 @@
+FITini 
+
+[Header]
+st FileType="MechProfile"
+
+[General]
+st MechType="Centurion W"
+st Name="CN9-W"
+f CurTonnage=55.000000
+st icon="Null"
+c Status=0
+ul Chassis=49
+l NameIndex=3
+l NameVariant=1
+b Assigned=TRUE
+b NotMineYet=FALSE
+l Pilot=2
+b Required=FALSE
+l DescIndex=452
+
+[Engine]
+f Tonnage=-1.000000
+ul Rating=225
+uc MaxRunSpeed=18
+
+[Armor]
+uc Type=0
+f Tonnage=8.500000
+
+[MaxArmorPoints]
+uc Head=13
+uc CenterTorso=24
+uc LeftTorso=20
+uc RightTorso=20
+uc LeftArm=17
+uc RightArm=17
+uc LeftLeg=19
+uc RightLeg=19
+uc RearCenterTorso=10
+uc RearLeftTorso=7
+uc RearRightTorso=7
+
+[CurArmorPoints]
+uc Head=13
+uc CenterTorso=24
+uc LeftTorso=20
+uc RightTorso=20
+uc LeftArm=17
+uc RightArm=17
+uc LeftLeg=19
+uc RightLeg=19
+uc RearCenterTorso=10
+uc RearLeftTorso=7
+uc RearRightTorso=7
+
+[Item:0]
+uc MasterID=35
+
+[Item:1]
+uc MasterID=34
+
+[Item:2]
+uc MasterID=34
+
+[Item:3]
+uc MasterID=33
+
+[Item:4]
+uc MasterID=33
+
+[Item:5]
+uc MasterID=21
+
+[Item:6]
+uc MasterID=13
+
+[Item:7]
+uc MasterID=6
+
+[Item:8]
+uc MasterID=5
+
+[Item:9]
+uc MasterID=5
+
+[Item:10]
+uc MasterID=4
+
+[Item:11]
+uc MasterID=4
+
+[Item:12]
+uc MasterID=1
+
+[Item:13]
+uc MasterID=145
+uc FacesForward=1
+
+[Item:14]
+uc MasterID=120
+uc FacesForward=1
+
+[Item:15]
+uc MasterID=120
+uc FacesForward=1
+
+[Item:16]
+uc MasterID=101
+uc FacesForward=1
+
+[Item:17]
+uc MasterID=220
+l Amount=-1
+
+[Item:18]
+uc MasterID=220
+l Amount=-1
+
+[Item:19]
+uc MasterID=201
+l Amount=-1
+
+[InventoryInfo]
+uc NumOther=13
+uc NumWeapons=4
+uc NumAmmo=3
+
+[Head]
+uc CASE=0
+uc CurInternalStructure=3
+uc HotSpotNumber=7
+uc[2] Component:0=0, 0,
+uc[2] Component:1=6, 0,
+uc[2] Component:2=7, 0,
+uc[2] Component:3=255, 0,
+uc[2] Component:4=255, 0,
+uc[2] Component:5=255, 0,
+
+[CenterTorso]
+uc CASE=1
+uc CurInternalStructure=18
+uc HotSpotNumber=0
+uc[2] Component:0=5, 0,
+uc[2] Component:1=12, 0,
+uc[2] Component:2=255, 0,
+uc[2] Component:3=255, 0,
+uc[2] Component:4=255, 0,
+uc[2] Component:5=255, 0,
+uc[2] Component:6=255, 0,
+uc[2] Component:7=255, 0,
+uc[2] Component:8=255, 0,
+uc[2] Component:9=255, 0,
+uc[2] Component:10=255, 0,
+uc[2] Component:11=255, 0,
+
+[LeftTorso]
+uc CASE=1
+uc CurInternalStructure=13
+uc HotSpotNumber=11
+uc[2] Component:0=17, 0,
+uc[2] Component:1=255, 0,
+uc[2] Component:2=255, 0,
+uc[2] Component:3=255, 0,
+uc[2] Component:4=255, 0,
+uc[2] Component:5=255, 0,
+uc[2] Component:6=255, 0,
+uc[2] Component:7=255, 0,
+uc[2] Component:8=255, 0,
+uc[2] Component:9=255, 0,
+uc[2] Component:10=255, 0,
+uc[2] Component:11=255, 0,
+
+[RightTorso]
+uc CASE=1
+uc CurInternalStructure=13
+uc HotSpotNumber=12
+uc[2] Component:0=18, 0,
+uc[2] Component:1=255, 0,
+uc[2] Component:2=255, 0,
+uc[2] Component:3=255, 0,
+uc[2] Component:4=255, 0,
+uc[2] Component:5=255, 0,
+uc[2] Component:6=255, 0,
+uc[2] Component:7=255, 0,
+uc[2] Component:8=255, 0,
+uc[2] Component:9=255, 0,
+uc[2] Component:10=255, 0,
+uc[2] Component:11=255, 0,
+
+[LeftArm]
+uc CASE=1
+uc CurInternalStructure=9
+uc HotSpotNumber=4
+uc[2] Component:0=3, 0,
+uc[2] Component:1=10, 0,
+uc[2] Component:2=13, 0,
+uc[2] Component:3=14, 0,
+uc[2] Component:4=16, 0,
+uc[2] Component:5=19, 0,
+uc[2] Component:6=255, 0,
+uc[2] Component:7=255, 0,
+uc[2] Component:8=255, 0,
+uc[2] Component:9=255, 0,
+uc[2] Component:10=255, 0,
+uc[2] Component:11=255, 0,
+
+[RightArm]
+uc CASE=1
+uc CurInternalStructure=9
+uc HotSpotNumber=1
+uc[2] Component:0=4, 0,
+uc[2] Component:1=11, 0,
+uc[2] Component:2=15, 0,
+uc[2] Component:3=255, 0,
+uc[2] Component:4=255, 0,
+uc[2] Component:5=255, 0,
+uc[2] Component:6=255, 0,
+uc[2] Component:7=255, 0,
+uc[2] Component:8=255, 0,
+uc[2] Component:9=255, 0,
+uc[2] Component:10=255, 0,
+uc[2] Component:11=255, 0,
+
+[LeftLeg]
+uc CASE=1
+uc CurInternalStructure=13
+uc HotSpotNumber=6
+uc[2] Component:0=1, 0,
+uc[2] Component:1=8, 0,
+uc[2] Component:2=255, 0,
+uc[2] Component:3=255, 0,
+uc[2] Component:4=255, 0,
+uc[2] Component:5=255, 0,
+
+[RightLeg]
+uc CASE=1
+uc CurInternalStructure=13
+uc HotSpotNumber=5
+uc[2] Component:0=2, 0,
+uc[2] Component:1=9, 0,
+uc[2] Component:2=255, 0,
+uc[2] Component:3=255, 0,
+uc[2] Component:4=255, 0,
+uc[2] Component:5=255, 0,
+FITend 
